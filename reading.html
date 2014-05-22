@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>LOVEFABRIK</title>
+    <link rel='stylesheet' href='cursor.css' />
+
+
+
+</head>
+<body>
+
+<script src="js/jquery.min.js"></script>
+
+
+<div class="content">
+    <div class="cursor">❤</div><div class="question" contenteditable="true"></div>
+</div>
+
+<script>
+
+    ;(function(){
+
+        $(".cursor").on('click', function(e) {
+
+            var entered = $(".question").html();
+
+            var length = entered.length;
+
+            if (length > 5 && entered.indexOf("?") != -1) {
+                alert("You asked: " + entered);
+                window.location = "dna.html";
+            }
+            else {
+                alert("Divination starts with a question...");
+            }
+
+
+        });
+
+
+
+    })();
+
+
+</script>
+</body>
+</html>
