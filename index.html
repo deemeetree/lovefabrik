@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>LOVEFABRIK</title>
+    <link rel='stylesheet' href='style.css' />
+
+
+
+</head>
+<body>
+
+
+        <div id="graph-container"></div>
+
+
+
+
+
+
+
+<script src="js/sigma.min.js"></script>
+<script src="js/sigma.parsers.gexf.min.js"></script>
+<script src="js/sigma.parsers.json.min.js"></script>
+<script src="js/sigma.layout.forceAtlas2.js"></script>
+<script src="js/sigma.plugins.animate.min.js"></script>
+
+
+
+
+<script>
+;(function(){
+
+
+
+
+
+
+// Add a method to the graph model that returns an
+// object with every neighbors of a node inside:
+
+    sigma.classes.graph.addMethod('neighbors', function(nodeId) {
+        var k,
+                neighbors = {},
+                index = this.allNeighborsIndex[nodeId] || {};
+
+        for (k in index)
+            neighbors[k] = this.nodesIndex[k];
+
+        return neighbors;
+    });
+
+// Initialize JSON parser for SIGMA visualization
+
+    sigma.parsers.gexf(
+            'lovefabrikdna.gexf',
+            { // Here is the ID of the DOM element that
+                // will contain the graph:
+                container: 'graph-container',
+                renderer: {
+                    container: document.getElementById('graph-container'),
+                    type: 'canvas'
+                }
+
+            },
+            function(s) {
+                // This function will be executed when the
+                // graph is displayed, with "s" the related
+                // sigma instance.
+
+                var i,
+                        timeout = 8000,
+                        nodes = s.graph.nodes(),
+                        len = nodes.length;
+
+
+                var config = {
+                    outboundAttractionDistribution: true,
+                    adjustSizes: true,
+                    scalingRatio: 400,
+                    gravity: 100
+                }
+
+                s.settings({
+                    minNodeSize: 0,
+                    maxNodeSize: 18,
+                    labelHoverBGColor: 'node',
+                    drawLabels: false
+                });
+
+
+
+
+                // Refresh the graph to see the changes:
+
+                s.refresh();
+
+
+
+                /*s.startForceAtlas2(config);
+
+                 for (i = 0; i < len; i++) {
+                 nodes[i].x = Math.random();
+                 nodes[i].y = Math.random();
+                 }
+
+                 // Don't run it forever not to overheat :)
+
+                setTimeout(function() {
+                    s.stopForceAtlas2();
+                },timeout);*/
+
+
+
+            }
+    );
+
+
+
+
+
+})();
+</script>
+
+</body>
+</html>
