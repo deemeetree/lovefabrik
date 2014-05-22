@@ -23,6 +23,8 @@ body {
     padding-left: 0px;
     padding-right: 0px;
     background-color: #000000;
+    -webkit-animation: blink 2s linear 0s;
+
 }
 
 #choices {
@@ -36,3 +38,11 @@ body {
 }
 
 
+
+@-webkit-keyframes blink {
+    0%   { opacity: 0 }
+    33%  { opacity: 0.4 }
+    50%  { opacity: 0.7 }
+    80%  { opacity: 0.9 }
+    100% { opacity: 1 }
+}
