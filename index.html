@@ -31,13 +31,31 @@
 <script>
 ;(function(){
 
+// Play a sound
 
+
+    myAudio = new Audio('rocket.ogg');
+    if (typeof myAudio.loop == 'boolean')
+    {
+        myAudio.loop = true;
+    }
+    else
+    {
+        myAudio.addEventListener('ended', function() {
+            this.currentTime = 0;
+            this.play();
+        }, false);
+    }
+    myAudio.play();
 
 
 
 
 // Add a method to the graph model that returns an
 // object with every neighbors of a node inside:
+
+
+
 
     sigma.classes.graph.addMethod('neighbors', function(nodeId) {
         var k,
@@ -84,8 +102,11 @@
                 s.settings({
                     minNodeSize: 0,
                     maxNodeSize: 18,
+                    labelSize: 'fixed',
+                    labelSizeRatio: 4,
                     labelHoverBGColor: 'node',
-                    drawLabels: false
+                    drawLabels: false,
+                    hoverFont: '2'
                 });
 
 
@@ -94,6 +115,24 @@
                 // Refresh the graph to see the changes:
 
                 s.refresh();
+
+
+
+
+                for (i = 0; i < 1000; i++) {
+                    setTimeout(function(i) {
+                        var angle = (i / 200) % (Math.PI*2);
+                        s.cameras[0].angle = angle;
+                        s.refresh();
+                    }.bind(void 0,i), 100*i);
+                }
+
+
+                s.bind('overNode', function(e) {
+                    e.data.node.label = '❤';
+                    s.refresh();
+                });
+
 
 
 
