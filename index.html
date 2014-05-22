@@ -109,8 +109,6 @@
                 });
 
 
-
-
                 // Refresh the graph to see the changes:
 
                 s.refresh();
@@ -146,27 +144,47 @@
 
                 // Click node
 
+                var clickCount = 0;
+
                 s.bind('clickNode', function(e) {
-                    var text = e.data.node.originalLabel;
+                    // var text = e.data.node.originalLabel;
+                    var text = '❤';
                     var contents = $('#choices').html();
-                    contents = contents + '<br>' + text;
-                    $('#choices').html(contents);
-                });
+                    var element = '';
+
+                    if (clickCount == 0) {
+                        element = 'earth';
+                    }
+                    else if (clickCount == 1) {
+                        element = 'fire';
+                    }
+                    else if (clickCount == 2) {
+                        element = 'air';
+                    }
+                    else if (clickCount == 3) {
+                        element = 'water';
+                    }
+
+                    if (clickCount < 4) {
+                        contents = contents + '<br><br>' + text + ' ' + element;
+                        $('#choices').html(contents);
+                        clickCount = clickCount + 1;
+                    }
+                    else {
+                        s.startForceAtlas2(config);
+
+                        // Don't run it forever not to overheat :)
+
+                        setTimeout(function() {
+                            s.stopForceAtlas2();
+                        },timeout);
+                    }
+
+                 });
 
 
 
-                /*s.startForceAtlas2(config);
 
-                 for (i = 0; i < len; i++) {
-                 nodes[i].x = Math.random();
-                 nodes[i].y = Math.random();
-                 }
-
-                 // Don't run it forever not to overheat :)
-
-                setTimeout(function() {
-                    s.stopForceAtlas2();
-                },timeout);*/
 
 
 

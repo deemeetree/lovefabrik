@@ -1,14 +1,14 @@
 @font-face {
-    font-family: 'IstokWeb-Bold';
-    src: url('fonts/IstokWeb-Bold.eot');
-    src: url('fonts/IstokWeb-Bold.eot?#iefix') format('embedded-opentype'),
-    url('fonts/IstokWeb-Bold.woff') format('woff'),
-    url('fonts/IstokWeb-Bold.ttf') format('truetype'),
-    url('fonts/IstokWeb-Bold.svg#IstokWeb-Bold') format('svg');
+    font-family: 'IstokWeb-Regular';
+    src: url('../fonts/IstokWeb-Regular.eot');
+    src: url('../fonts/IstokWeb-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/IstokWeb-Regular.woff') format('woff'),
+    url('../fonts/IstokWeb-Regular.ttf') format('truetype'),
+    url('../fonts/IstokWeb-Regular.svg#IstokWeb-Regular') format('svg');
 }
 
 body {
-    font: 16px 'IstokWeb-Bold',sans-serif;
+    font: 16px 'IstokWeb-Regular',sans-serif;
     margin: 0;
     background-color: #000000;
 }
@@ -26,14 +26,11 @@ body {
 }
 
 #choices {
-    font: 36px 'IstokWeb-Bold',sans-serif;
+    font: 40px 'IstokWeb-Regular',sans-serif;
     color: #fff;
     top: 50px;
     left: 50px;
     z-index: 11;
     position: fixed;
-    background-color: #000000;
-    -khtml-opacity: 0.10;
-    -moz-opacity: 0.10;
-    opacity: 0.10;
+    background-color: rgba(0, 0, 0, 0.4);
 }
