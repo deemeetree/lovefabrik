@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>LOVEFABRIK</title>
+    <link rel='stylesheet' href='style.css' />
+
+
+
+</head>
+<body>
+
+        <div id="choices"></div>
+        <div id="graph-container"></div>
+
+
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/sigma.min.js"></script>
+<script src="js/sigma.parsers.gexf.min.js"></script>
+<script src="js/sigma.parsers.json.min.js"></script>
+<script src="js/sigma.layout.forceAtlas2.js"></script>
+<script src="js/sigma.plugins.animate.min.js"></script>
+
+
+
+
+
+<script>
+;(function(){
+
+// Play a sound
+
+
+    myAudio = new Audio('rocket.ogg');
+    if (typeof myAudio.loop == 'boolean')
+    {
+        myAudio.loop = true;
+    }
+    else
+    {
+        myAudio.addEventListener('ended', function() {
+            this.currentTime = 0;
+            this.play();
+        }, false);
+    }
+    myAudio.play();
+
+
+
+
+// Add a method to the graph model that returns an
+// object with every neighbors of a node inside:
+
+
+
+
+    sigma.classes.graph.addMethod('neighbors', function(nodeId) {
+        var k,
+                neighbors = {},
+                index = this.allNeighborsIndex[nodeId] || {};
+
+        for (k in dna)
+            neighbors[k] = this.nodesIndex[k];
+
+        return neighbors;
+    });
+
+// Initialize JSON parser for SIGMA visualization
+
+    sigma.parsers.gexf(
+            'lovefabrikdna.gexf',
+            { // Here is the ID of the DOM element that
+                // will contain the graph:
+                container: 'graph-container',
+                renderer: {
+                    container: document.getElementById('graph-container'),
+                    type: 'canvas'
+                }
+
+            },
+            function(s) {
+                // This function will be executed when the
+                // graph is displayed, with "s" the related
+                // sigma instance.
+
+                var i,
+                        timeout = 8000,
+                        nodes = s.graph.nodes(),
+                        len = nodes.length;
+
+
+                var config = {
+                    outboundAttractionDistribution: true,
+                    adjustSizes: true,
+                    scalingRatio: 400,
+                    gravity: 100
+                }
+
+                s.settings({
+                    minNodeSize: 0,
+                    maxNodeSize: 18,
+                    labelSize: 'fixed',
+                    labelSizeRatio: 4,
+                    labelHoverBGColor: 'node',
+                    drawLabels: false,
+                    hoverFont: '2'
+                });
+
+
+                // Refresh the graph to see the changes:
+
+                s.refresh();
+
+
+                // Circular rotation
+
+                for (i = 0; i < 1000; i++) {
+                    setTimeout(function(i) {
+                        var angle = (i / 200) % (Math.PI*2);
+                        s.cameras[0].angle = angle;
+                        s.refresh();
+                    }.bind(void 0,i), 100*i);
+                }
+
+
+                // Initialize original labels
+
+                s.graph.nodes().forEach(function(n) {
+
+                    // Save node's default label
+                    n.originalLabel = n.label;
+
+                });
+
+                // Overnode
+
+                s.bind('overNode', function(e) {
+                    e.data.node.label = '❤';
+                    s.refresh();
+                });
+
+
+                // Click node
+
+                var clickCount = 0;
+
+                s.bind('clickNode', function(e) {
+                    // var text = e.data.node.originalLabel;
+                    var text = '❤';
+                    var contents = $('#choices').html();
+                    var element = '';
+
+                    if (clickCount == 0) {
+                        element = 'earth';
+                    }
+                    else if (clickCount == 1) {
+                        element = 'fire';
+                    }
+                    else if (clickCount == 2) {
+                        element = 'air';
+                    }
+                    else if (clickCount == 3) {
+                        element = 'water';
+                    }
+
+                    if (clickCount < 4) {
+                        contents = contents + '<br><br>' + text + ' ' + element;
+                        $('#choices').html(contents);
+                        clickCount = clickCount + 1;
+                    }
+                    else {
+                        s.startForceAtlas2(config);
+
+                        // Don't run it forever not to overheat :)
+
+                        setTimeout(function() {
+                            s.stopForceAtlas2();
+                        },timeout);
+                    }
+
+                 });
+
+
+
+
+
+
+
+            }
+    );
+
+
+
+
+
+})();
+</script>
+
+</body>
+</html>
