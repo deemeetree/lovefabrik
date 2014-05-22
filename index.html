@@ -10,20 +10,19 @@
 </head>
 <body>
 
-
+        <div id="choices"></div>
         <div id="graph-container"></div>
 
 
 
 
-
-
-
+<script src="js/jquery.min.js"></script>
 <script src="js/sigma.min.js"></script>
 <script src="js/sigma.parsers.gexf.min.js"></script>
 <script src="js/sigma.parsers.json.min.js"></script>
 <script src="js/sigma.layout.forceAtlas2.js"></script>
 <script src="js/sigma.plugins.animate.min.js"></script>
+
 
 
 
@@ -117,7 +116,7 @@
                 s.refresh();
 
 
-
+                // Circular rotation
 
                 for (i = 0; i < 1000; i++) {
                     setTimeout(function(i) {
@@ -128,11 +127,31 @@
                 }
 
 
+                // Initialize original labels
+
+                s.graph.nodes().forEach(function(n) {
+
+                    // Save node's default label
+                    n.originalLabel = n.label;
+
+                });
+
+                // Overnode
+
                 s.bind('overNode', function(e) {
                     e.data.node.label = '❤';
                     s.refresh();
                 });
 
+
+                // Click node
+
+                s.bind('clickNode', function(e) {
+                    var text = e.data.node.originalLabel;
+                    var contents = $('#choices').html();
+                    contents = contents + '<br>' + text;
+                    $('#choices').html(contents);
+                });
 
 
 

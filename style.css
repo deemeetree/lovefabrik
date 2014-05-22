@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'IstokWeb-Bold';
+    src: url('fonts/IstokWeb-Bold.eot');
+    src: url('fonts/IstokWeb-Bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/IstokWeb-Bold.woff') format('woff'),
+    url('fonts/IstokWeb-Bold.ttf') format('truetype'),
+    url('fonts/IstokWeb-Bold.svg#IstokWeb-Bold') format('svg');
+}
+
 body {
     font: 16px 'IstokWeb-Bold',sans-serif;
     margin: 0;
@@ -14,4 +23,17 @@ body {
     padding-left: 0px;
     padding-right: 0px;
     background-color: #000000;
+}
+
+#choices {
+    font: 36px 'IstokWeb-Bold',sans-serif;
+    color: #fff;
+    top: 50px;
+    left: 50px;
+    z-index: 11;
+    position: fixed;
+    background-color: #000000;
+    -khtml-opacity: 0.10;
+    -moz-opacity: 0.10;
+    opacity: 0.10;
 }
