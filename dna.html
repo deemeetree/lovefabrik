@@ -145,26 +145,36 @@
                 // Click node
 
                 var clickCount = 0;
+                var pathe = '';
 
                 s.bind('clickNode', function(e) {
                     // var text = e.data.node.originalLabel;
+
+                    var nodeid = e.data.node.id;
 
                     console.log(e.data.node.originalLabel);
                     var text = '❤';
                     var contents = $('#choices').html();
                     var element = '';
 
+
                     if (clickCount == 0) {
                         element = 'earth';
+                        pathe += '?earth=' + nodeid;
                     }
                     else if (clickCount == 1) {
                         element = 'fire';
+                        pathe += '&fire=' + nodeid;
                     }
                     else if (clickCount == 2) {
                         element = 'air';
+                        pathe += '&air=' + nodeid;
+
                     }
                     else if (clickCount == 3) {
                         element = 'water';
+                        pathe += '&water=' + nodeid;
+
                     }
 
                     if (clickCount < 4) {
@@ -179,7 +189,7 @@
 
                         setTimeout(function() {
                             s.stopForceAtlas2();
-                            window.location = "reading.html";
+                            window.location = "reading.html" + pathe;
                         },timeout);
                     }
 
