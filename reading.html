@@ -35,7 +35,12 @@
 <script>
     ;(function(){
 
-
+        function getParameterByName(name) {
+            name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+            var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                    results = regex.exec(location.search);
+            return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
 
 
         myAudio = new Audio('rocket.ogg');
@@ -133,7 +138,7 @@
             $("#earth").on('click', function(e) {
 
                 // And finally, let's initialize the first graph:
-                refreshGraph('dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7');
+                refreshGraph(getParameterByName('earth'));
                 $( '#SW' ).fadeTo( "fast", $('#SW').css("opacity") == "1" ? "0.5" : "1");
 
 
@@ -142,7 +147,7 @@
             $("#fire").on('click', function(e) {
 
                 // And finally, let's initialize the first graph:
-                refreshGraph('36493384-d486-11e3-a954-ab35be27f3fc');
+                refreshGraph(getParameterByName('fire'));
 
                 $( '#SE' ).fadeTo( "fast", $('#SE').css("opacity") == "1" ? "0.5" : "1");
 
@@ -152,14 +157,14 @@
             $("#air").on('click hover', function(e) {
 
                 // And finally, let's initialize the first graph:
-                refreshGraph('90e3ada6-cf8f-11e3-a954-ab35be27f3fc');
+                refreshGraph(getParameterByName('air'));
                 $( '#NE' ).fadeTo( "fast", $('#NE').css("opacity") == "1" ? "0.5" : "1");
             });
 
             $("#water").on('click', function(e) {
 
                 // And finally, let's initialize the first graph:
-                refreshGraph('95c3e231-dae7-11e3-910c-5b1996442876');
+                refreshGraph(getParameterByName('water'));
 
                 $( '#NW' ).fadeTo( "fast", $('#NW').css("opacity") == "1" ? "0.5" : "1");
 
