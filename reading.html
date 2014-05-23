@@ -3,46 +3,128 @@
 <head>
     <meta charset="utf-8">
     <title>LOVEFABRIK</title>
-    <link rel='stylesheet' href='cursor.css' />
+    <link rel='stylesheet' href='style.css' />
 
 
 
 </head>
 <body>
 
+<div id="choices"></div>
+<div id="graph-container"></div>
+
+
+
+
 <script src="js/jquery.min.js"></script>
+<script src="js/sigma.min.js"></script>
+<script src="js/sigma.parsers.gexf.min.js"></script>
+<script src="js/sigma.parsers.json.min.js"></script>
+<script src="js/sigma.layout.forceAtlas2.js"></script>
+<script src="js/sigma.plugins.animate.min.js"></script>
+<script src="js/sigma.plugins.neighborhoods.js"></script>
 
 
-<div class="content">
-    <div class="cursor">❤</div><div class="question" contenteditable="true"></div>
-</div>
+
+
+
 
 <script>
-
     ;(function(){
 
-        $(".cursor").on('click', function(e) {
 
-            var entered = $(".question").html();
 
-            var length = entered.length;
 
-            if (length > 5 && entered.indexOf("?") != -1) {
-                alert("You asked: " + entered);
-                window.location = "dna.html";
+
+        var s = new sigma({
+                    container: 'graph-container',
+                    renderer: {
+                        container: document.getElementById('graph-container'),
+                        type: 'canvas'
+                    },
+                    settings: {
+                        minNodeSize: 12,
+                        maxNodeSize: 40,
+                        minEdgeSize: 0.5,
+                        maxEdgeSize: 3,
+                        labelThreshold: 3,
+                        labelSize: 'proportional',
+                        labelSizeRatio: 1.3,
+                        defaultLabelColor: '#996666'
+
+                    }
+                }),
+                db = new sigma.plugins.neighborhoods();
+
+
+
+        db.load('divination.json', function() {
+
+            // This is a fix for JSON
+            // Sigma requires that nodes have X, Y, Size and Color properties which our JSON doesn't have. So we add them.
+            // We also make the initial graph layout circular, so that ForceAtlas always looks the same
+
+            // Out function to initialize sigma on a new neighborhood:
+            function refreshGraph(centerNodeId) {
+                // First, let's stop the ForceAtlas2 algorithm:
+                s.stopForceAtlas2();
+
+                // Restart the camera:
+                s.camera.goTo({
+                    x: 0,
+                    y: 0,
+                    angle: 0,
+                    ratio: 1
+                });
+
+                // Empty the graph:
+                s.graph.clear();
+
+                // Read the graph:
+                s.graph.read(db.neighborhood(centerNodeId));
+
+                // Randomize the positions of the nodes and initialize their size:
+                var i,
+                        nodes = s.graph.nodes(),
+                        len = nodes.length;
+
+                for (i = 0; i < len; i++) {
+                    nodes[i].x = Math.cos(Math.PI * 2 * i / len);
+                    nodes[i].y = Math.sin(Math.PI * 2 * i / len);
+                    nodes[i].size = s.graph.degree(nodes[i].id);
+                    nodes[i].color = '#390707';
+                }
+
+
+                // Refresh the display:
+                s.refresh();
+
+                // Start the ForceAtlas2 algorithm:
+                s.startForceAtlas2();
+
+                setTimeout(function() {
+                    s.stopForceAtlas2();
+                },5000);
             }
-            else {
-                alert("Divination starts with a question...");
-            }
 
+            // Let's now bind this new function to the "clickNode" event:
+            s.bind('clickNode', function(event) {
+                if (!event.data.node.center)
+                    refreshGraph(event.data.node.id);
+            });
 
+            // And finally, let's initialize the first graph:
+            refreshGraph('dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7');
         });
 
 
 
+
+
+
+
     })();
-
-
 </script>
+
 </body>
 </html>

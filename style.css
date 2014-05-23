@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'IstokWeb-Regular';
-    src: url('../fonts/IstokWeb-Regular.eot');
-    src: url('../fonts/IstokWeb-Regular.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/IstokWeb-Regular.woff') format('woff'),
-    url('../fonts/IstokWeb-Regular.ttf') format('truetype'),
-    url('../fonts/IstokWeb-Regular.svg#IstokWeb-Regular') format('svg');
+    src: url('fonts/IstokWeb-Regular.eot');
+    src: url('fonts/IstokWeb-Regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/IstokWeb-Regular.woff') format('woff'),
+    url('fonts/IstokWeb-Regular.ttf') format('truetype'),
+    url('fonts/IstokWeb-Regular.svg#IstokWeb-Regular') format('svg');
 }
 
 body {
