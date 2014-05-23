@@ -1,0 +1,5046 @@
+{
+  "nodes": [
+    {
+      "id": "825e5681-db64-11e3-910c-5b1996442876",
+      "label": "abortion"
+    },
+    {
+      "id": "ec6e715d-b557-11e3-bdbd-476fefd65326",
+      "label": "acceptance"
+    },
+    {
+      "id": "62d698c2-dadf-11e3-910c-5b1996442876",
+      "label": "activation"
+    },
+    {
+      "id": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "label": "active"
+    },
+    {
+      "id": "d189b701-d398-11e3-a954-ab35be27f3fc",
+      "label": "aeythr"
+    },
+    {
+      "id": "585aeaa0-db65-11e3-910c-5b1996442876",
+      "label": "affliction"
+    },
+    {
+      "id": "9bc7c001-a9de-11e3-af25-7f5aef879767",
+      "label": "air"
+    },
+    {
+      "id": "94cfb3d0-db0b-11e3-910c-5b1996442876",
+      "label": "anguish"
+    },
+    {
+      "id": "8d615ba1-db63-11e3-910c-5b1996442876",
+      "label": "apparition"
+    },
+    {
+      "id": "bcc49b01-d307-11e3-a954-ab35be27f3fc",
+      "label": "aquarius"
+    },
+    {
+      "id": "62f41f31-d305-11e3-a954-ab35be27f3fc",
+      "label": "aries"
+    },
+    {
+      "id": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "label": "ascension"
+    },
+    {
+      "id": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "label": "beauty"
+    },
+    {
+      "id": "bbd349a2-af8e-11e3-a530-f7ff52338200",
+      "label": "cancer"
+    },
+    {
+      "id": "6928f311-d307-11e3-a954-ab35be27f3fc",
+      "label": "capricorn"
+    },
+    {
+      "id": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "label": "celebration"
+    },
+    {
+      "id": "060d3a52-cf8f-11e3-a954-ab35be27f3fc",
+      "label": "chariot"
+    },
+    {
+      "id": "217c7501-db09-11e3-910c-5b1996442876",
+      "label": "charisma"
+    },
+    {
+      "id": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "label": "communication"
+    },
+    {
+      "id": "e1447c31-db08-11e3-910c-5b1996442876",
+      "label": "confession"
+    },
+    {
+      "id": "48b04b51-d3a3-11e3-a954-ab35be27f3fc",
+      "label": "confidence"
+    },
+    {
+      "id": "5c253de0-db09-11e3-910c-5b1996442876",
+      "label": "conquest"
+    },
+    {
+      "id": "b55d37b1-db62-11e3-910c-5b1996442876",
+      "label": "contemplation"
+    },
+    {
+      "id": "59411b90-c361-11e3-bdbd-476fefd65326",
+      "label": "creation"
+    },
+    {
+      "id": "e11e8701-d39c-11e3-a954-ab35be27f3fc",
+      "label": "crown"
+    },
+    {
+      "id": "6b6fef71-db63-11e3-910c-5b1996442876",
+      "label": "crystallization"
+    },
+    {
+      "id": "8fe4d4d1-d3a5-11e3-a954-ab35be27f3fc",
+      "label": "determination"
+    },
+    {
+      "id": "f37a1b91-d305-11e3-a954-ab35be27f3fc",
+      "label": "devotion"
+    },
+    {
+      "id": "3cce2974-c354-11e3-bdbd-476fefd65326",
+      "label": "discipline"
+    },
+    {
+      "id": "f3870e70-db09-11e3-910c-5b1996442876",
+      "label": "disillusionment"
+    },
+    {
+      "id": "77a77d88-cf9c-11e3-a954-ab35be27f3fc",
+      "label": "divine"
+    },
+    {
+      "id": "ca3ef53a-ad1c-11e3-b535-0f31502e3c9f",
+      "label": "dna"
+    },
+    {
+      "id": "5172d7b1-b006-11e3-a530-f7ff52338200",
+      "label": "earth"
+    },
+    {
+      "id": "5c2516d1-db09-11e3-910c-5b1996442876",
+      "label": "emancipation"
+    },
+    {
+      "id": "5bc63521-dae1-11e3-910c-5b1996442876",
+      "label": "embodiment"
+    },
+    {
+      "id": "c4ff5d51-dae6-11e3-910c-5b1996442876",
+      "label": "empowerment"
+    },
+    {
+      "id": "e8c34a21-dae7-11e3-910c-5b1996442876",
+      "label": "enchantment"
+    },
+    {
+      "id": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "label": "equilibrium"
+    },
+    {
+      "id": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "label": "exaltation"
+    },
+    {
+      "id": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "label": "expression"
+    },
+    {
+      "id": "2e7634a4-a16e-11e3-ace9-1fa4c6cf2894",
+      "label": "faith"
+    },
+    {
+      "id": "fe748060-db63-11e3-910c-5b1996442876",
+      "label": "fertilisation"
+    },
+    {
+      "id": "3b8d0da1-ac39-11e3-a803-9f58509b41cd",
+      "label": "fire"
+    },
+    {
+      "id": "62e20661-cf9a-11e3-a954-ab35be27f3fc",
+      "label": "fool"
+    },
+    {
+      "id": "917e8141-d39d-11e3-a954-ab35be27f3fc",
+      "label": "foundation"
+    },
+    {
+      "id": "057aa320-d304-11e3-a954-ab35be27f3fc",
+      "label": "gemini"
+    },
+    {
+      "id": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "label": "gestation"
+    },
+    {
+      "id": "75c21137-cf9b-11e3-a954-ab35be27f3fc",
+      "label": "god"
+    },
+    {
+      "id": "1ab089e1-db0a-11e3-910c-5b1996442876",
+      "label": "happening"
+    },
+    {
+      "id": "be0ccf91-db64-11e3-910c-5b1996442876",
+      "label": "hedonism"
+    },
+    {
+      "id": "af533690-cfea-11e3-a954-ab35be27f3fc",
+      "label": "hermit"
+    },
+    {
+      "id": "0adabd91-cfb3-11e3-a954-ab35be27f3fc",
+      "label": "heroism"
+    },
+    {
+      "id": "f0f32bbc-d86d-11e3-a275-9521abe7520f",
+      "label": "hope"
+    },
+    {
+      "id": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "label": "imagination"
+    },
+    {
+      "id": "bc3f9431-db65-11e3-910c-5b1996442876",
+      "label": "impostor"
+    },
+    {
+      "id": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "label": "incarnation"
+    },
+    {
+      "id": "d729f461-dadf-11e3-910c-5b1996442876",
+      "label": "inception"
+    },
+    {
+      "id": "8c405e31-cfd1-11e3-a954-ab35be27f3fc",
+      "label": "inertia"
+    },
+    {
+      "id": "01fc0141-dae7-11e3-910c-5b1996442876",
+      "label": "infantilization"
+    },
+    {
+      "id": "76933ba9-b9b0-11e3-bdbd-476fefd65326",
+      "label": "influence"
+    },
+    {
+      "id": "bc2f6a32-c354-11e3-bdbd-476fefd65326",
+      "label": "inspiration"
+    },
+    {
+      "id": "027ad184-cf9f-11e3-a954-ab35be27f3fc",
+      "label": "instinct"
+    },
+    {
+      "id": "a19fcb31-cfae-11e3-a954-ab35be27f3fc",
+      "label": "intuition"
+    },
+    {
+      "id": "23af5731-dae0-11e3-910c-5b1996442876",
+      "label": "investment"
+    },
+    {
+      "id": "c4f032a0-d305-11e3-a954-ab35be27f3fc",
+      "label": "jupiter"
+    },
+    {
+      "id": "b95d9111-d39d-11e3-a954-ab35be27f3fc",
+      "label": "kingdom"
+    },
+    {
+      "id": "9c6d14a5-ac37-11e3-a803-9f58509b41cd",
+      "label": "knowledge"
+    },
+    {
+      "id": "e09160d0-ac4d-11e3-a803-9f58509b41cd",
+      "label": "learning"
+    },
+    {
+      "id": "6bfb49c2-d303-11e3-a954-ab35be27f3fc",
+      "label": "leo"
+    },
+    {
+      "id": "1f9bf751-cfa7-11e3-a954-ab35be27f3fc",
+      "label": "liberation"
+    },
+    {
+      "id": "ac2b0fc1-d304-11e3-a954-ab35be27f3fc",
+      "label": "libra"
+    },
+    {
+      "id": "4a3e4595-aba7-11e3-a803-9f58509b41cd",
+      "label": "love"
+    },
+    {
+      "id": "e94e6ce1-cf93-11e3-a954-ab35be27f3fc",
+      "label": "lover"
+    },
+    {
+      "id": "27369d30-db64-11e3-910c-5b1996442876",
+      "label": "luxury"
+    },
+    {
+      "id": "c8d3cff1-cf98-11e3-a954-ab35be27f3fc",
+      "label": "magician"
+    },
+    {
+      "id": "ecd2c271-dae8-11e3-910c-5b1996442876",
+      "label": "manifestation"
+    },
+    {
+      "id": "04bf25e0-d305-11e3-a954-ab35be27f3fc",
+      "label": "mars"
+    },
+    {
+      "id": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "label": "mercury"
+    },
+    {
+      "id": "0ceaaf81-d39d-11e3-a954-ab35be27f3fc",
+      "label": "mercy"
+    },
+    {
+      "id": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "label": "moon"
+    },
+    {
+      "id": "ca8b4e91-db0a-11e3-910c-5b1996442876",
+      "label": "narcissism"
+    },
+    {
+      "id": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "label": "neptune"
+    },
+    {
+      "id": "7eb16671-dae8-11e3-910c-5b1996442876",
+      "label": "nihilism"
+    },
+    {
+      "id": "68b90401-cfb6-11e3-a954-ab35be27f3fc",
+      "label": "obsession"
+    },
+    {
+      "id": "b6b079f0-d483-11e3-a954-ab35be27f3fc",
+      "label": "obstinacy"
+    },
+    {
+      "id": "dcf14a82-d480-11e3-a954-ab35be27f3fc",
+      "label": "obstruction"
+    },
+    {
+      "id": "c4819a00-db63-11e3-910c-5b1996442876",
+      "label": "operation"
+    },
+    {
+      "id": "a1ef6480-db64-11e3-910c-5b1996442876",
+      "label": "pact"
+    },
+    {
+      "id": "8ba8df51-cfb4-11e3-a954-ab35be27f3fc",
+      "label": "passion"
+    },
+    {
+      "id": "e3ed3fe1-cf95-11e3-a954-ab35be27f3fc",
+      "label": "perfection"
+    },
+    {
+      "id": "cc8c6dc1-db62-11e3-910c-5b1996442876",
+      "label": "perfectionism"
+    },
+    {
+      "id": "7211ed74-cb95-11e3-bdbd-476fefd65326",
+      "label": "performance"
+    },
+    {
+      "id": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "label": "perspective"
+    },
+    {
+      "id": "d73145f0-db64-11e3-910c-5b1996442876",
+      "label": "perversion"
+    },
+    {
+      "id": "57cef3c1-db64-11e3-910c-5b1996442876",
+      "label": "petinence"
+    },
+    {
+      "id": "e7d00b91-d307-11e3-a954-ab35be27f3fc",
+      "label": "pisces"
+    },
+    {
+      "id": "3d341ed1-d305-11e3-a954-ab35be27f3fc",
+      "label": "planetearth"
+    },
+    {
+      "id": "9e9bec10-d306-11e3-a954-ab35be27f3fc",
+      "label": "pluto"
+    },
+    {
+      "id": "013d4671-cfb5-11e3-a954-ab35be27f3fc",
+      "label": "pope"
+    },
+    {
+      "id": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "label": "potential"
+    },
+    {
+      "id": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "label": "potentiation"
+    },
+    {
+      "id": "3f211781-db65-11e3-910c-5b1996442876",
+      "label": "prediction"
+    },
+    {
+      "id": "33613a31-dae6-11e3-910c-5b1996442876",
+      "label": "predilection"
+    },
+    {
+      "id": "bfc57dd1-cfb8-11e3-a954-ab35be27f3fc",
+      "label": "priestess"
+    },
+    {
+      "id": "9e2d54e1-dadf-11e3-910c-5b1996442876",
+      "label": "procrastination"
+    },
+    {
+      "id": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "label": "projection"
+    },
+    {
+      "id": "853bec01-cfd4-11e3-a954-ab35be27f3fc",
+      "label": "prophecy"
+    },
+    {
+      "id": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "label": "protection"
+    },
+    {
+      "id": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "label": "realization"
+    },
+    {
+      "id": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "label": "receptive"
+    },
+    {
+      "id": "484cde53-dae5-11e3-910c-5b1996442876",
+      "label": "reincarnation"
+    },
+    {
+      "id": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "label": "reinvention"
+    },
+    {
+      "id": "aa42da00-db63-11e3-910c-5b1996442876",
+      "label": "reiteration"
+    },
+    {
+      "id": "88e35338-bffc-11e3-bdbd-476fefd65326",
+      "label": "repetition"
+    },
+    {
+      "id": "dc2886ea-bf71-11e3-bdbd-476fefd65326",
+      "label": "sacrifice"
+    },
+    {
+      "id": "fe873d61-d305-11e3-a954-ab35be27f3fc",
+      "label": "sagittarius"
+    },
+    {
+      "id": "f15949a1-db64-11e3-910c-5b1996442876",
+      "label": "sanctification"
+    },
+    {
+      "id": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "label": "saturn"
+    },
+    {
+      "id": "ef9d5570-cfb6-11e3-a954-ab35be27f3fc",
+      "label": "scorpio"
+    },
+    {
+      "id": "87c6f306-a18d-11e3-ace9-1fa4c6cf2894",
+      "label": "spirit"
+    },
+    {
+      "id": "9acc66e1-d39d-11e3-a954-ab35be27f3fc",
+      "label": "splendour"
+    },
+    {
+      "id": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "label": "stabilization"
+    },
+    {
+      "id": "f5dbbdfb-bf73-11e3-bdbd-476fefd65326",
+      "label": "strength"
+    },
+    {
+      "id": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "label": "sun"
+    },
+    {
+      "id": "0ded5371-a2be-11e3-ab0e-bfc299dccaba",
+      "label": "synchronization"
+    },
+    {
+      "id": "d2e49161-cf8d-11e3-a954-ab35be27f3fc",
+      "label": "talent"
+    },
+    {
+      "id": "a5134401-d304-11e3-a954-ab35be27f3fc",
+      "label": "taurus"
+    },
+    {
+      "id": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "label": "temptation"
+    },
+    {
+      "id": "7efaf311-cfe6-11e3-a954-ab35be27f3fc",
+      "label": "transcendence"
+    },
+    {
+      "id": "32896a50-ba85-11e3-bdbd-476fefd65326",
+      "label": "understanding"
+    },
+    {
+      "id": "87b5ceb5-d871-11e3-a275-9521abe7520f",
+      "label": "update"
+    },
+    {
+      "id": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "label": "uranus"
+    },
+    {
+      "id": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "label": "venus"
+    },
+    {
+      "id": "867d6d61-d39d-11e3-a954-ab35be27f3fc",
+      "label": "victory"
+    },
+    {
+      "id": "0c2247f1-d304-11e3-a954-ab35be27f3fc",
+      "label": "virgo"
+    },
+    {
+      "id": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "label": "vitality"
+    },
+    {
+      "id": "d5db07a4-b9b4-11e3-bdbd-476fefd65326",
+      "label": "water"
+    },
+    {
+      "id": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "label": "wisdom"
+    },
+    {
+      "id": "0209f071-db96-11e3-910c-5b1996442876",
+      "label": "wisedom"
+    },
+    {
+      "id": "8b0ae291-dae1-11e3-910c-5b1996442876",
+      "label": "withdrawal"
+    }
+  ],
+  "edges": [
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "ff5adb92-dbcd-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "ff5a1840-dbcd-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "0ceaaf81-d39d-11e3-a954-ab35be27f3fc",
+      "id": "09ef4565-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "09ee5b00-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "a5134401-d304-11e3-a954-ab35be27f3fc",
+      "id": "572936b2-db8c-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "57289a70-db8c-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "id": "217c7507-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "217bffd0-db09-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "217c7501-db09-11e3-910c-5b1996442876",
+      "id": "217c7502-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "217bffd0-db09-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "013d4671-cfb5-11e3-a954-ab35be27f3fc",
+      "id": "147f6a12-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "147ecdd0-db09-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "ea714544-db08-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ea705ae0-db08-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "ea714541-db08-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ea705ae0-db08-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "e1447c31-db08-11e3-910c-5b1996442876",
+      "id": "ea711e32-db08-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ea705ae0-db08-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "ecd2e984-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ecd24d40-dae8-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "ecd2e981-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ecd24d40-dae8-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "ecd2c271-dae8-11e3-910c-5b1996442876",
+      "id": "ecd2c272-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ecd24d40-dae8-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "id": "7eb18d81-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "7eb0a320-dae8-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "7eb16671-dae8-11e3-910c-5b1996442876",
+      "id": "7eb16672-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "7eb0a320-dae8-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "target": "5172d7b1-b006-11e3-a530-f7ff52338200",
+      "id": "28fdd312-e1cf-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "28fd0fc0-e1cf-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "2e7634a4-a16e-11e3-ace9-1fa4c6cf2894",
+      "target": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "id": "56368bd4-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "5635ef90-dae8-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "87c6f306-a18d-11e3-ace9-1fa4c6cf2894",
+      "target": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "id": "9d01caf4-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "9d009270-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "0ded5371-a2be-11e3-ab0e-bfc299dccaba",
+      "target": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "id": "ca1354b5-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ca12b870-dae4-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "4a3e4595-aba7-11e3-a803-9f58509b41cd",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "156489c1-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "15635140-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "4a3e4595-aba7-11e3-a803-9f58509b41cd",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "0f6f6c12-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "0f6ea8c0-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "4a3e4595-aba7-11e3-a803-9f58509b41cd",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "ce7985d1-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ce789b70-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "d8cff4a1-dbce-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "d8cf3150-dbce-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "b95d9111-d39d-11e3-a954-ab35be27f3fc",
+      "id": "658b1d42-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "658a59f0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "e7d00b91-d307-11e3-a954-ab35be27f3fc",
+      "id": "9a9ed8e2-db8d-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "9a9e1590-db8d-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "3f213e91-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3f205430-db65-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "3f211781-db65-11e3-910c-5b1996442876",
+      "id": "3f211782-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3f205430-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "33399b44-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3338b0e0-db65-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "f37a1b91-d305-11e3-a954-ab35be27f3fc",
+      "id": "33397432-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3338b0e0-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "id": "9b20c1a4-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "9b1fb030-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "id": "9b20c1a3-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "9b1fb030-db62-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "e3ed3fe1-cf95-11e3-a954-ab35be27f3fc",
+      "id": "9b209a9c-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "9b1fb030-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "e3ed3fe1-cf95-11e3-a954-ab35be27f3fc",
+      "id": "9b209a9a-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "9b1fb030-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "id": "65e2f4c4-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "65e25880-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "id": "65e2f4c3-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "65e25880-dae7-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "59411b90-c361-11e3-bdbd-476fefd65326",
+      "id": "65e2cdbf-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "65e25880-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "59411b90-c361-11e3-bdbd-476fefd65326",
+      "id": "65e2cdbd-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "65e25880-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "target": "d5db07a4-b9b4-11e3-bdbd-476fefd65326",
+      "id": "036271b2-e1cf-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "03616040-e1cf-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "e09160d0-ac4d-11e3-a803-9f58509b41cd",
+      "target": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "1a866f35-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1a85abe0-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e09160d0-ac4d-11e3-a803-9f58509b41cd",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "1a86482b-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1a85abe0-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e09160d0-ac4d-11e3-a803-9f58509b41cd",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "1a864825-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1a85abe0-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "9c6d14a5-ac37-11e3-a803-9f58509b41cd",
+      "target": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "id": "6f674084-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "6f667d30-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "9c6d14a5-ac37-11e3-a803-9f58509b41cd",
+      "target": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "id": "69f3aee5-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "69f2eb90-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "ca3ef53a-ad1c-11e3-b535-0f31502e3c9f",
+      "target": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "id": "484d0565-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "484c4210-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "ca3ef53a-ad1c-11e3-b535-0f31502e3c9f",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "484cde5a-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "484c4210-dae5-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "ca3ef53a-ad1c-11e3-b535-0f31502e3c9f",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "484cde54-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "484c4210-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "target": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "id": "ef0ed917-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "ef0e15c0-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "target": "77a77d88-cf9c-11e3-a954-ab35be27f3fc",
+      "id": "ef0ed912-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "ef0e15c0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "ec6e715d-b557-11e3-bdbd-476fefd65326",
+      "target": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "id": "57e35b94-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "57e29840-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "565bf5a2-dbce-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "565b0b40-dbce-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "id": "95746f22-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "957384c0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "ac2b0fc1-d304-11e3-a954-ab35be27f3fc",
+      "id": "73824b32-db8c-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "7381d600-db8c-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "b55d5ec4-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "b55c9b70-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "b55d37b1-db62-11e3-910c-5b1996442876",
+      "id": "b55d37b2-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "b55c9b70-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "9b209a97-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "9b1fb030-db62-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "9b209a94-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "9b1fb030-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "e3ed3fe1-cf95-11e3-a954-ab35be27f3fc",
+      "id": "9b207382-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "9b1fb030-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "6ac59b27-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6abd36b0-db62-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "6ac59b24-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6abd36b0-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "87b5ceb5-d871-11e3-a275-9521abe7520f",
+      "id": "6ac57412-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6abd36b0-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "5c253de0-db09-11e3-910c-5b1996442876",
+      "id": "94cfb3d6-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "94cef080-db0b-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "94cfb3d0-db0b-11e3-910c-5b1996442876",
+      "id": "94cfb3d1-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "94cef080-db0b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "target": "9bc7c001-a9de-11e3-af25-7f5aef879767",
+      "id": "8629f9d2-e1cd-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "86293680-e1cd-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "76933ba9-b9b0-11e3-bdbd-476fefd65326",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "1811b3c4-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1810f070-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "7af1f4f2-dbce-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "7af131a0-dbce-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "9acc66e1-d39d-11e3-a954-ab35be27f3fc",
+      "id": "a0387a04-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "a0378fa0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "d5db07a4-b9b4-11e3-bdbd-476fefd65326",
+      "id": "cfc44e22-db8c-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "cfc40000-db8c-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "32515395-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3250b750-db64-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "8fe4d4d1-d3a5-11e3-a954-ab35be27f3fc",
+      "id": "32515390-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3250b750-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "27369d36-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "273600f0-db64-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "27369d30-db64-11e3-910c-5b1996442876",
+      "id": "27369d31-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "273600f0-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "1a866f38-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1a85abe0-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "1a866f37-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1a85abe0-db63-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "e09160d0-ac4d-11e3-a803-9f58509b41cd",
+      "id": "1a866f33-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1a85abe0-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "e09160d0-ac4d-11e3-a803-9f58509b41cd",
+      "id": "1a866f31-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1a85abe0-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "id": "7887b633-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "788719e0-dae6-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "id": "7887b632-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "788719e0-dae6-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "bc2f6a32-c354-11e3-bdbd-476fefd65326",
+      "id": "7887b62e-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "788719e0-dae6-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "bc2f6a32-c354-11e3-bdbd-476fefd65326",
+      "id": "7887b62c-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "788719e0-dae6-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "target": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "id": "dd7a9e02-e1ce-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "dd79b3a0-e1ce-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "bfdc95d1-dbcd-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "bfdbf990-dbcd-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "32896a50-ba85-11e3-bdbd-476fefd65326",
+      "id": "ea2de325-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "ea2d1fd0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "1f502fa1-db8c-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "1f4f6c50-db8c-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "95c3e237-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95c31ee0-dae7-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "95c3e234-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95c31ee0-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "7211ed74-cb95-11e3-bdbd-476fefd65326",
+      "id": "95c3bb22-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95c31ee0-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "65e2cdba-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "65e25880-dae7-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "65e2cdb7-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "65e25880-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "59411b90-c361-11e3-bdbd-476fefd65326",
+      "id": "65e2cdb2-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "65e25880-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "id": "c4ff8461-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "c4fec110-dae6-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "c4ff5d51-dae6-11e3-910c-5b1996442876",
+      "id": "c4ff5d52-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "c4fec110-dae6-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "id": "c79abe21-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "c799fad0-dae5-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "8b0ae291-dae1-11e3-910c-5b1996442876",
+      "id": "c79a9712-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "c799fad0-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "target": "5172d7b1-b006-11e3-a530-f7ff52338200",
+      "id": "3a6b3b02-e1d0-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "3a6a9ec0-e1d0-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "32896a50-ba85-11e3-bdbd-476fefd65326",
+      "target": "f5dbbdfb-bf73-11e3-bdbd-476fefd65326",
+      "id": "d1d76b24-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "d1d6cee0-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "32896a50-ba85-11e3-bdbd-476fefd65326",
+      "target": "5c253de0-db09-11e3-910c-5b1996442876",
+      "id": "d1d74412-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "d1d6cee0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "32896a50-ba85-11e3-bdbd-476fefd65326",
+      "target": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "id": "cbd0c141-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "cbcfd6e0-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "32896a50-ba85-11e3-bdbd-476fefd65326",
+      "target": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "id": "cbd09a32-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "cbcfd6e0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "dc2886ea-bf71-11e3-bdbd-476fefd65326",
+      "target": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "id": "052ced45-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "052c7810-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "dc2886ea-bf71-11e3-bdbd-476fefd65326",
+      "target": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "id": "59fe4b84-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "59fd1300-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "f5dbbdfb-bf73-11e3-bdbd-476fefd65326",
+      "target": "9acc66e1-d39d-11e3-a954-ab35be27f3fc",
+      "id": "a0387a06-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "a0378fa0-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "f5dbbdfb-bf73-11e3-bdbd-476fefd65326",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "a0387a01-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "a0378fa0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "f5dbbdfb-bf73-11e3-bdbd-476fefd65326",
+      "target": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "id": "95746f24-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "957384c0-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "f5dbbdfb-bf73-11e3-bdbd-476fefd65326",
+      "target": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "id": "95744812-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "957384c0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "88e35338-bffc-11e3-bdbd-476fefd65326",
+      "target": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "id": "d3ed5b01-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "d3ecbec0-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "target": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "id": "d75d5e37-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "d75c9ae0-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "target": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "id": "c948e545-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "c947acc0-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "target": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "d75d5e32-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "d75c9ae0-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "target": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "c55a5082-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "c559b440-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "c55a5087-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "c559b440-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "bbb42e34-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "bbb343d0-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "target": "a19fcb31-cfae-11e3-a954-ab35be27f3fc",
+      "id": "c948e540-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "c947acc0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "target": "a19fcb31-cfae-11e3-a954-ab35be27f3fc",
+      "id": "bbb40722-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "bbb343d0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "3cce2974-c354-11e3-bdbd-476fefd65326",
+      "target": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "id": "1ab23003-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1ab145a0-dae8-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "3cce2974-c354-11e3-bdbd-476fefd65326",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "1ab208f8-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1ab145a0-dae8-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "3cce2974-c354-11e3-bdbd-476fefd65326",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "1ab208f2-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1ab145a0-dae8-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "bc2f6a32-c354-11e3-bdbd-476fefd65326",
+      "target": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "id": "7887b630-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "788719e0-dae6-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "bc2f6a32-c354-11e3-bdbd-476fefd65326",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "7887b62a-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "788719e0-dae6-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "bc2f6a32-c354-11e3-bdbd-476fefd65326",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "7887b624-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "788719e0-dae6-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "59411b90-c361-11e3-bdbd-476fefd65326",
+      "target": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "id": "65e2f4c1-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "65e25880-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "59411b90-c361-11e3-bdbd-476fefd65326",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "65e2cdbb-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "65e25880-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "59411b90-c361-11e3-bdbd-476fefd65326",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "65e2cdb5-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "65e25880-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7211ed74-cb95-11e3-bdbd-476fefd65326",
+      "target": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "id": "95c40941-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95c31ee0-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7211ed74-cb95-11e3-bdbd-476fefd65326",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "95c3e238-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95c31ee0-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "7211ed74-cb95-11e3-bdbd-476fefd65326",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "95c3e232-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95c31ee0-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "d2e49161-cf8d-11e3-a954-ab35be27f3fc",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "6f71fa41-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6f709ab0-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "id": "2de18014-db95-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "2de0e3d0-db95-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "id": "d75d5e35-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "d75c9ae0-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "cee406a1-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "cee36a60-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "c55a5085-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "c559b440-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "52b42351-dbce-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "52b3ae20-dbce-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "32896a50-ba85-11e3-bdbd-476fefd65326",
+      "id": "ea2de327-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "ea2d1fd0-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "id": "ea2de322-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "ea2d1fd0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "id": "2c370ef4-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "2c362490-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "id": "81a5a985-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "81a53450-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "0c2247f1-d304-11e3-a954-ab35be27f3fc",
+      "id": "8303de22-db8c-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "830368f0-db8c-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "id": "57e35b96-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "57e29840-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "ec6e715d-b557-11e3-bdbd-476fefd65326",
+      "id": "57e35b91-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "57e29840-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "af533690-cfea-11e3-a954-ab35be27f3fc",
+      "id": "45a085c1-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "459f4d40-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "1a86482a-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1a85abe0-db63-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "1a864827-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1a85abe0-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "e09160d0-ac4d-11e3-a803-9f58509b41cd",
+      "id": "1a864822-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1a85abe0-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "fc52ce5a-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fc523210-db62-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "fc52ce57-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fc523210-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "853bec01-cfd4-11e3-a954-ab35be27f3fc",
+      "id": "fc52ce52-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fc523210-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "id": "cc8c6dc7-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "cc8bf890-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "cc8c6dc1-db62-11e3-910c-5b1996442876",
+      "id": "cc8c6dc2-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "cc8bf890-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b1-b006-11e3-a530-f7ff52338200",
+      "id": "39164ed2-e1cf-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "39158b80-e1cf-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "e3ed3fe1-cf95-11e3-a954-ab35be27f3fc",
+      "target": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "id": "9b20c1a1-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "9b1fb030-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e3ed3fe1-cf95-11e3-a954-ab35be27f3fc",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "9b209a98-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "9b1fb030-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e3ed3fe1-cf95-11e3-a954-ab35be27f3fc",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "9b209a92-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "9b1fb030-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "target": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "id": "6eed6025-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "6eec9cd0-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "target": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "id": "56cd8882-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "56ccc530-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "target": "04bf25e0-d305-11e3-a954-ab35be27f3fc",
+      "id": "6b01ce12-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "6b00e3b0-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "65510c64-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "65502200-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "5b446aa5-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "5b426ed0-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "77a77d88-cf9c-11e3-a954-ab35be27f3fc",
+      "target": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "id": "93602001-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "935f35a0-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "77a77d88-cf9c-11e3-a954-ab35be27f3fc",
+      "target": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "id": "ef0ed915-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "ef0e15c0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "77a77d88-cf9c-11e3-a954-ab35be27f3fc",
+      "target": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "id": "79230325-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "79228df0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "target": "b95d9111-d39d-11e3-a954-ab35be27f3fc",
+      "id": "5e62fdd5-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "5e6288a0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "target": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "id": "08cf5012-db8e-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "08ceb3d0-db8e-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "target": "3d341ed1-d305-11e3-a954-ab35be27f3fc",
+      "id": "ff52b951-db8d-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "ff51cef0-db8d-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "bc3fbb41-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "bc3ea9d0-db65-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "target": "bc3f9431-db65-11e3-910c-5b1996442876",
+      "id": "bc3f9432-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "bc3ea9d0-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "target": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "id": "bbb46fd7-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "bbb3faa0-dae4-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "target": "dcf14a82-d480-11e3-a954-ab35be27f3fc",
+      "id": "bbb46fd2-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "bbb3faa0-dae4-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b1-b006-11e3-a530-f7ff52338200",
+      "id": "8e52b902-e1d0-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "8e51f5b0-e1d0-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "1f9bf751-cfa7-11e3-a954-ab35be27f3fc",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "76b107a4-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "76b01d40-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "75c21137-cf9b-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "487cfb85-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "487c5f40-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "75c21137-cf9b-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "35edda74-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "35ed1720-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "75c21137-cf9b-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "94222cf5-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "942169a0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "75c21137-cf9b-11e3-a954-ab35be27f3fc",
+      "target": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "id": "9f072d53-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "9f066a00-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "75c21137-cf9b-11e3-a954-ab35be27f3fc",
+      "target": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "id": "9bd59c75-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "9bd4d920-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "027ad184-cf9f-11e3-a954-ab35be27f3fc",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "12fe90d5-db95-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "12fe1ba0-db95-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "027ad184-cf9f-11e3-a954-ab35be27f3fc",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "e029ad34-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "e028c2d0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "target": "917e8141-d39d-11e3-a954-ab35be27f3fc",
+      "id": "6cc4eff6-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "6cc40590-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "6cc4eff1-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "6cc40590-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "target": "9acc66e1-d39d-11e3-a954-ab35be27f3fc",
+      "id": "4700f7f1-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "47000d90-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "4700d0e2-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "47000d90-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "target": "867d6d61-d39d-11e3-a954-ab35be27f3fc",
+      "id": "3fa397b7-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "3fa2d460-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "3fa397b2-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "3fa2d460-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "32896a50-ba85-11e3-bdbd-476fefd65326",
+      "id": "a21c2394-db95-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "a21ac400-db95-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "id": "b8f88a42-db8b-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "b8f7c6f0-db8b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "c8d3cff1-cf98-11e3-a954-ab35be27f3fc",
+      "id": "936347d2-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "9362d2a0-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "812c58e7-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "812bbca0-dae5-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "812c58e4-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "812bbca0-dae5-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "23af5731-dae0-11e3-910c-5b1996442876",
+      "id": "812c31d2-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "812bbca0-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "484cde59-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "484c4210-dae5-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "484cde56-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "484c4210-dae5-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "ca3ef53a-ad1c-11e3-b535-0f31502e3c9f",
+      "id": "484cde51-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "484c4210-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "id": "146bec71-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "146b5030-dae5-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "d729f461-dadf-11e3-910c-5b1996442876",
+      "id": "146bc562-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "146b5030-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "id": "dcf59ed4-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "dcf529a0-dae4-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "9e2d54e1-dadf-11e3-910c-5b1996442876",
+      "id": "dcf577c2-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "dcf529a0-dae4-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "target": "9bc7c001-a9de-11e3-af25-7f5aef879767",
+      "id": "45c914e2-e1d0-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "45c82a80-e1d0-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "a19fcb31-cfae-11e3-a954-ab35be27f3fc",
+      "target": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "id": "c948e543-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "c947acc0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "a19fcb31-cfae-11e3-a954-ab35be27f3fc",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "bbb42e32-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "bbb343d0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "a19fcb31-cfae-11e3-a954-ab35be27f3fc",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "b45a0245-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "b45917e0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8ba8df51-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "id": "95b2d2d0-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95b23680-db09-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8ba8df51-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "95b2d2ca-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95b23680-db09-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "8ba8df51-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "95b2d2c4-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95b23680-db09-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "68b90401-cfb6-11e3-a954-ab35be27f3fc",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "02e21e44-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "02e15af0-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "0adabd91-cfb3-11e3-a954-ab35be27f3fc",
+      "target": "5c253de0-db09-11e3-910c-5b1996442876",
+      "id": "e61d4290-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e61c7f30-db0a-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "0adabd91-cfb3-11e3-a954-ab35be27f3fc",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "e61d428a-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e61c7f30-db0a-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "0adabd91-cfb3-11e3-a954-ab35be27f3fc",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "e61d4284-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e61c7f30-db0a-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "956c8571-dbce-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "956bc220-dbce-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "9acc66e1-d39d-11e3-a954-ab35be27f3fc",
+      "id": "4700d0e5-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "47000d90-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "6928f311-d307-11e3-a954-ab35be27f3fc",
+      "id": "26ef5e62-db8d-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "26eec220-db8d-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "ce7985d3-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ce789b70-db64-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "4a3e4595-aba7-11e3-a803-9f58509b41cd",
+      "id": "ce795ec2-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ce789b70-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "be0cf6a1-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "be0c0c40-db64-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "be0ccf91-db64-11e3-910c-5b1996442876",
+      "id": "be0ccf92-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "be0c0c40-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "id": "95b2f9d2-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95b23680-db09-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "id": "95b2f9d1-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95b23680-db09-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "8ba8df51-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "95b2d2ce-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95b23680-db09-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "8ba8df51-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "95b2d2cc-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95b23680-db09-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "id": "ea72a4d2-db08-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ea705ae0-db08-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "id": "ea72a4d1-db08-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ea705ae0-db08-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "e1447c31-db08-11e3-910c-5b1996442876",
+      "id": "ea714549-db08-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ea705ae0-db08-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "e1447c31-db08-11e3-910c-5b1996442876",
+      "id": "ea714547-db08-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ea705ae0-db08-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b1-b006-11e3-a530-f7ff52338200",
+      "id": "4213ca82-e1cf-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "42132e40-e1cf-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "a8323c51-dbcd-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "a83103d0-dbcd-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "id": "ecbad092-db8b-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "ecba0d40-db8b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "bfc57dd1-cfb8-11e3-a954-ab35be27f3fc",
+      "id": "82db4bf2-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "82dafdd0-dae6-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "7887b629-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "788719e0-dae6-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "7887b626-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "788719e0-dae6-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "bc2f6a32-c354-11e3-bdbd-476fefd65326",
+      "id": "7887b621-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "788719e0-dae6-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "33616147-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3360c500-dae6-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "33616144-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3360c500-dae6-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "33613a31-dae6-11e3-910c-5b1996442876",
+      "id": "33613a32-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3360c500-dae6-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "id": "a0c83c57-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "a0c7c720-dae5-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "5bc63521-dae1-11e3-910c-5b1996442876",
+      "id": "a0c83c52-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "a0c7c720-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "id": "273afcb6-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "273a6070-dae5-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "8c405e31-cfd1-11e3-a954-ab35be27f3fc",
+      "id": "273afcb1-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "273a6070-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "target": "d5db07a4-b9b4-11e3-bdbd-476fefd65326",
+      "id": "4dd99882-e1d0-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "4dd8fc40-e1d0-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "8ebaa772-dbce-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "8eb9bd10-dbce-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "917e8141-d39d-11e3-a954-ab35be27f3fc",
+      "id": "6cc4eff4-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "6cc40590-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "fe873d61-d305-11e3-a954-ab35be27f3fc",
+      "id": "1bf99521-db8d-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "1bf8d1d0-db8d-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "a1ef6486-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "a1eec840-db64-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "a1ef6480-db64-11e3-910c-5b1996442876",
+      "id": "a1ef6481-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "a1eec840-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "825e7d94-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "825dba40-db64-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "825e5681-db64-11e3-910c-5b1996442876",
+      "id": "825e5682-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "825dba40-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "5c253de0-db09-11e3-910c-5b1996442876",
+      "id": "3fd454e1-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3fd3b890-db0b-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "5c253de0-db09-11e3-910c-5b1996442876",
+      "id": "3fd454e0-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3fd3b890-db0b-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "f0f32bbc-d86d-11e3-a275-9521abe7520f",
+      "id": "3fd454dc-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3fd3b890-db0b-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "f0f32bbc-d86d-11e3-a275-9521abe7520f",
+      "id": "3fd454da-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3fd3b890-db0b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "id": "1ab23006-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1ab145a0-dae8-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "id": "1ab23005-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1ab145a0-dae8-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "3cce2974-c354-11e3-bdbd-476fefd65326",
+      "id": "1ab23001-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1ab145a0-dae8-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "3cce2974-c354-11e3-bdbd-476fefd65326",
+      "id": "1ab208fa-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1ab145a0-dae8-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "target": "3b8d0da1-ac39-11e3-a803-9f58509b41cd",
+      "id": "783022e2-e1ce-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "782f5f90-e1ce-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "8c405e31-cfd1-11e3-a954-ab35be27f3fc",
+      "target": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "id": "273afcb4-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "273a6070-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "853bec01-cfd4-11e3-a954-ab35be27f3fc",
+      "target": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "fc52f561-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fc523210-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "853bec01-cfd4-11e3-a954-ab35be27f3fc",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "fc52ce5b-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fc523210-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "853bec01-cfd4-11e3-a954-ab35be27f3fc",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "fc52ce55-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fc523210-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7efaf311-cfe6-11e3-a954-ab35be27f3fc",
+      "target": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "id": "adfdd441-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "adfce9e0-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "c81a0062-dbce-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "c8193d10-dbce-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "9acc66e1-d39d-11e3-a954-ab35be27f3fc",
+      "id": "7e241c82-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "7e233220-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "04bf25e0-d305-11e3-a954-ab35be27f3fc",
+      "id": "397111f2-db8d-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "397075b0-db8d-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "f15970b3-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "f158ad60-db64-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "f15949a1-db64-11e3-910c-5b1996442876",
+      "id": "f15949a2-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "f158ad60-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "d73145f6-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "d730a9b0-db64-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "d73145f0-db64-11e3-910c-5b1996442876",
+      "id": "d73145f1-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "d730a9b0-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "id": "27cb5613-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "27cae0d0-db0a-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "id": "27cb5612-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "27cae0d0-db0a-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "1ab089e1-db0a-11e3-910c-5b1996442876",
+      "id": "27cb560e-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "27cae0d0-db0a-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "1ab089e1-db0a-11e3-910c-5b1996442876",
+      "id": "27cb560c-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "27cae0d0-db0a-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "id": "ecd31094-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ecd24d40-dae8-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "id": "ecd31093-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ecd24d40-dae8-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "ecd2c271-dae8-11e3-910c-5b1996442876",
+      "id": "ecd2e989-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ecd24d40-dae8-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "ecd2c271-dae8-11e3-910c-5b1996442876",
+      "id": "ecd2e987-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ecd24d40-dae8-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "target": "3b8d0da1-ac39-11e3-a803-9f58509b41cd",
+      "id": "82713032-e1d0-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "826ff7b0-e1d0-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "bfc57dd1-cfb8-11e3-a954-ab35be27f3fc",
+      "target": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "id": "e06946e5-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "e068d1b0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e11e8701-d39c-11e3-a954-ab35be27f3fc",
+      "target": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "id": "e06946e7-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "e068d1b0-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e11e8701-d39c-11e3-a954-ab35be27f3fc",
+      "target": "bfc57dd1-cfb8-11e3-a954-ab35be27f3fc",
+      "id": "e06946e2-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "e068d1b0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e11e8701-d39c-11e3-a954-ab35be27f3fc",
+      "target": "0209f071-db96-11e3-910c-5b1996442876",
+      "id": "0209f074-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "02090610-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e11e8701-d39c-11e3-a954-ab35be27f3fc",
+      "target": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "id": "0209c962-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "02090610-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e11e8701-d39c-11e3-a954-ab35be27f3fc",
+      "target": "32896a50-ba85-11e3-bdbd-476fefd65326",
+      "id": "a21c2396-db95-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "a21ac400-db95-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e11e8701-d39c-11e3-a954-ab35be27f3fc",
+      "target": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "id": "a21c2391-db95-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "a21ac400-db95-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "0ceaaf81-d39d-11e3-a954-ab35be27f3fc",
+      "target": "f5dbbdfb-bf73-11e3-bdbd-476fefd65326",
+      "id": "bb3029c1-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "bb2f6670-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "0ceaaf81-d39d-11e3-a954-ab35be27f3fc",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "bb3002b2-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "bb2f6670-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "0ceaaf81-d39d-11e3-a954-ab35be27f3fc",
+      "target": "867d6d61-d39d-11e3-a954-ab35be27f3fc",
+      "id": "35dead54-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "35ddea00-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "0ceaaf81-d39d-11e3-a954-ab35be27f3fc",
+      "target": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "id": "35de8642-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "35ddea00-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "0ceaaf81-d39d-11e3-a954-ab35be27f3fc",
+      "target": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "id": "2c370ef6-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "2c362490-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "0ceaaf81-d39d-11e3-a954-ab35be27f3fc",
+      "target": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "2c370ef1-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "2c362490-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "867d6d61-d39d-11e3-a954-ab35be27f3fc",
+      "target": "9acc66e1-d39d-11e3-a954-ab35be27f3fc",
+      "id": "7e241c84-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "7e233220-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "867d6d61-d39d-11e3-a954-ab35be27f3fc",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "7e23f572-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "7e233220-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "867d6d61-d39d-11e3-a954-ab35be27f3fc",
+      "target": "b95d9111-d39d-11e3-a954-ab35be27f3fc",
+      "id": "658b1d44-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "658a59f0-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "867d6d61-d39d-11e3-a954-ab35be27f3fc",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "658af632-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "658a59f0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "867d6d61-d39d-11e3-a954-ab35be27f3fc",
+      "target": "917e8141-d39d-11e3-a954-ab35be27f3fc",
+      "id": "565c8c57-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "565bc900-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "867d6d61-d39d-11e3-a954-ab35be27f3fc",
+      "target": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "id": "565c8c52-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "565bc900-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "917e8141-d39d-11e3-a954-ab35be27f3fc",
+      "target": "b95d9111-d39d-11e3-a954-ab35be27f3fc",
+      "id": "5e62fdd7-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "5e6288a0-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "917e8141-d39d-11e3-a954-ab35be27f3fc",
+      "target": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "id": "5e62fdd2-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "5e6288a0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "9acc66e1-d39d-11e3-a954-ab35be27f3fc",
+      "target": "b95d9111-d39d-11e3-a954-ab35be27f3fc",
+      "id": "76bbe6d6-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "76bafc70-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "9acc66e1-d39d-11e3-a954-ab35be27f3fc",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "76bbe6d1-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "76bafc70-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "9acc66e1-d39d-11e3-a954-ab35be27f3fc",
+      "target": "917e8141-d39d-11e3-a954-ab35be27f3fc",
+      "id": "4d8efa41-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "4d8e0fe0-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "9acc66e1-d39d-11e3-a954-ab35be27f3fc",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "4d8ed332-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "4d8e0fe0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8fe4d4d1-d3a5-11e3-a954-ab35be27f3fc",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "32515393-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3250b750-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "48b04b51-d3a3-11e3-a954-ab35be27f3fc",
+      "target": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "id": "7fa99435-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "7fa8d0e0-db0b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "target": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "id": "9f072d55-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "9f066a00-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "target": "75c21137-cf9b-11e3-a954-ab35be27f3fc",
+      "id": "9f072d50-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "9f066a00-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "target": "75c21137-cf9b-11e3-a954-ab35be27f3fc",
+      "id": "9bd59c72-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "9bd4d920-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "target": "75c21137-cf9b-11e3-a954-ab35be27f3fc",
+      "id": "94222cf2-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "942169a0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "target": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "id": "9bd5c381-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "9bd4d920-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "94222cf7-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "942169a0-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "target": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "id": "6f674086-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "6f667d30-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "target": "9c6d14a5-ac37-11e3-a803-9f58509b41cd",
+      "id": "6f674081-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "6f667d30-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "target": "9c6d14a5-ac37-11e3-a803-9f58509b41cd",
+      "id": "69f3aee2-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "69f2eb90-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "target": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "id": "69f3d5f1-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "69f2eb90-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "target": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "id": "59fe4b86-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "59fd1300-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "7b41a110-d306-11e3-a954-ab35be27f3fc",
+      "target": "dc2886ea-bf71-11e3-bdbd-476fefd65326",
+      "id": "59fe4b81-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "59fd1300-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "target": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "id": "6eed6027-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "6eec9cd0-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "target": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "id": "81a5a987-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "81a53450-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "6eed6022-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "6eec9cd0-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "6b01a702-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "6b00e3b0-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "65510c61-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "65502200-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "target": "04bf25e0-d305-11e3-a954-ab35be27f3fc",
+      "id": "6b01ce14-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "6b00e3b0-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "65510c66-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "65502200-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "target": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "id": "052ced47-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "052c7810-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "target": "dc2886ea-bf71-11e3-bdbd-476fefd65326",
+      "id": "052ced42-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "052c7810-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "target": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "81a5a982-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "81a53450-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "target": "433b7161-c361-11e3-bdbd-476fefd65326",
+      "id": "2de18016-db95-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "2de0e3d0-db95-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "target": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "2de18011-db95-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "2de0e3d0-db95-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "target": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "cee3df92-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "cee36a60-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "12fe90d7-db95-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "12fe1ba0-db95-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "cee406a3-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "cee36a60-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "156489c3-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "15635140-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "b45a2951-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "b45917e0-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "target": "027ad184-cf9f-11e3-a954-ab35be27f3fc",
+      "id": "12fe90d2-db95-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "12fe1ba0-db95-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "target": "4a3e4595-aba7-11e3-a803-9f58509b41cd",
+      "id": "156462b2-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "15635140-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "9202d310-d306-11e3-a954-ab35be27f3fc",
+      "target": "a19fcb31-cfae-11e3-a954-ab35be27f3fc",
+      "id": "b45a0242-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "b45917e0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "9e9bec10-d306-11e3-a954-ab35be27f3fc",
+      "target": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "id": "9d01caf6-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "9d009270-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "9e9bec10-d306-11e3-a954-ab35be27f3fc",
+      "target": "87c6f306-a18d-11e3-ace9-1fa4c6cf2894",
+      "id": "9d01caf1-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "9d009270-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "9e9bec10-d306-11e3-a954-ab35be27f3fc",
+      "target": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "id": "93602003-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "935f35a0-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "9e9bec10-d306-11e3-a954-ab35be27f3fc",
+      "target": "77a77d88-cf9c-11e3-a954-ab35be27f3fc",
+      "id": "935ff8f2-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "935f35a0-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "dcf14a82-d480-11e3-a954-ab35be27f3fc",
+      "target": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "id": "bbb46fd5-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "bbb3faa0-dae4-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "b6b079f0-d483-11e3-a954-ab35be27f3fc",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "8e367405-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8e35b0b0-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "10a93f42-dbce-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "10a87bf0-dbce-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "id": "cbd09a35-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "cbcfd6e0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "057aa320-d304-11e3-a954-ab35be27f3fc",
+      "id": "62c922a2-db8c-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "62c88660-db8c-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "27cb5609-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "27cae0d0-db0a-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "27cb5606-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "27cae0d0-db0a-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "1ab089e1-db0a-11e3-910c-5b1996442876",
+      "id": "27cb5601-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "27cae0d0-db0a-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "id": "f3870e76-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "f3864b20-db09-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "f3870e70-db09-11e3-910c-5b1996442876",
+      "id": "f3870e71-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "f3864b20-db09-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "95b2d2c9-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95b23680-db09-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "95b2d2c6-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95b23680-db09-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "8ba8df51-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "95b2d2c1-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95b23680-db09-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "5c253de0-db09-11e3-910c-5b1996442876",
+      "id": "5c253de3-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "5c24a1a0-db09-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "5c2516d1-db09-11e3-910c-5b1996442876",
+      "id": "5c2516d2-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "5c24a1a0-db09-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "e94e6ce1-cf93-11e3-a954-ab35be27f3fc",
+      "id": "2b4e30a1-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "2b4d9460-db09-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "target": "9bc7c001-a9de-11e3-af25-7f5aef879767",
+      "id": "7adff612-e1cd-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "7adf0bb0-e1cd-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "c4f032a0-d305-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "35edda76-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "35ed1720-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "c4f032a0-d305-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "2b4a28d3-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "2b491760-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "c4f032a0-d305-11e3-a954-ab35be27f3fc",
+      "target": "75c21137-cf9b-11e3-a954-ab35be27f3fc",
+      "id": "35edda71-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "35ed1720-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "c4f032a0-d305-11e3-a954-ab35be27f3fc",
+      "target": "f37a1b91-d305-11e3-a954-ab35be27f3fc",
+      "id": "2b4a01c2-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "2b491760-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "f37a1b91-d305-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "2b4a28d1-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "2b491760-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "f37a1b91-d305-11e3-a954-ab35be27f3fc",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "33399b42-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3338b0e0-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "target": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "id": "e029ad36-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "e028c2d0-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "target": "027ad184-cf9f-11e3-a954-ab35be27f3fc",
+      "id": "e029ad31-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "e028c2d0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "target": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "id": "79232a31-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "79228df0-db93-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "target": "77a77d88-cf9c-11e3-a954-ab35be27f3fc",
+      "id": "79230322-db93-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "79228df0-db93-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "0f6f6c14-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "0f6ea8c0-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "236442b0-d304-11e3-a954-ab35be27f3fc",
+      "target": "4a3e4595-aba7-11e3-a803-9f58509b41cd",
+      "id": "0f6f4502-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "0f6ea8c0-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "04bf25e0-d305-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "5b446aa7-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "5b426ed0-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "04bf25e0-d305-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "487d2291-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "487c5f40-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "04bf25e0-d305-11e3-a954-ab35be27f3fc",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "5b446aa2-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "5b426ed0-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "04bf25e0-d305-11e3-a954-ab35be27f3fc",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "56cd6172-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "56ccc530-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "04bf25e0-d305-11e3-a954-ab35be27f3fc",
+      "target": "a51c6130-d303-11e3-a954-ab35be27f3fc",
+      "id": "56cd8884-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "56ccc530-db94-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "04bf25e0-d305-11e3-a954-ab35be27f3fc",
+      "target": "75c21137-cf9b-11e3-a954-ab35be27f3fc",
+      "id": "487cfb82-db94-11e3-910c-5b1996442876",
+      "edge_context": "planets",
+      "statement_id": "487c5f40-db94-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "87b5ceb5-d871-11e3-a275-9521abe7520f",
+      "target": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "id": "6ac5c233-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6abd36b0-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "87b5ceb5-d871-11e3-a275-9521abe7520f",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "6ac59b28-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6abd36b0-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "87b5ceb5-d871-11e3-a275-9521abe7520f",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "6ac59b22-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6abd36b0-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "f0f32bbc-d86d-11e3-a275-9521abe7520f",
+      "target": "5c253de0-db09-11e3-910c-5b1996442876",
+      "id": "3fd454de-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3fd3b890-db0b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "f0f32bbc-d86d-11e3-a275-9521abe7520f",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "3fd454d8-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3fd3b890-db0b-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "f0f32bbc-d86d-11e3-a275-9521abe7520f",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "3fd454d2-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3fd3b890-db0b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "ddb242c2-dbce-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "ddb1a680-dbce-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "917e8141-d39d-11e3-a954-ab35be27f3fc",
+      "id": "4d8ed335-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "4d8e0fe0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "5172d7b6-b006-11e3-a530-f7ff52338200",
+      "id": "bdd6ced2-db8d-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "bdd60b80-db8d-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "76b107a6-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "76b01d40-db65-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "1f9bf751-cfa7-11e3-a954-ab35be27f3fc",
+      "id": "76b107a1-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "76b01d40-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "585aeaa6-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "585a2750-db65-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "585aeaa0-db65-11e3-910c-5b1996442876",
+      "id": "585aeaa1-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "585a2750-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "fc52f564-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fc523210-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "fc52f563-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fc523210-db62-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "853bec01-cfd4-11e3-a954-ab35be27f3fc",
+      "id": "fc52ce5f-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fc523210-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "853bec01-cfd4-11e3-a954-ab35be27f3fc",
+      "id": "fc52ce5d-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fc523210-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "id": "33618856-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3360c500-dae6-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "id": "33618855-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3360c500-dae6-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "33613a31-dae6-11e3-910c-5b1996442876",
+      "id": "33618851-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3360c500-dae6-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "33613a31-dae6-11e3-910c-5b1996442876",
+      "id": "3361614a-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3360c500-dae6-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "target": "3b8d0da1-ac39-11e3-a803-9f58509b41cd",
+      "id": "898e2c11-e1d0-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "898d68c0-e1d0-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "62d698c2-dadf-11e3-910c-5b1996442876",
+      "target": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "id": "a6c5b3e2-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "a6c517a0-dae4-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "target": "0209f071-db96-11e3-910c-5b1996442876",
+      "id": "0209f072-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "02090610-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "target": "d189b701-d398-11e3-a954-ab35be27f3fc",
+      "id": "8c28fb82-db8b-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "8c285f40-db8b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "target": "9bc7c001-a9de-11e3-af25-7f5aef879767",
+      "id": "81470863-db8b-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "81461e00-db8b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "target": "62e20661-cf9a-11e3-a954-ab35be27f3fc",
+      "id": "ef25fe12-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ef2561d0-dae4-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "target": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "id": "ca137bc1-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ca12b870-dae4-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "target": "0ded5371-a2be-11e3-ab0e-bfc299dccaba",
+      "id": "ca1354b2-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ca12b870-dae4-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "target": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "id": "a6c5b3e4-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "a6c517a0-dae4-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "target": "62d698c2-dadf-11e3-910c-5b1996442876",
+      "id": "a6c58cd2-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "a6c517a0-dae4-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "target": "8581aee0-d306-11e3-a954-ab35be27f3fc",
+      "id": "5e1ea9e2-e1cd-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "5e1cfc30-e1cd-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "9e2d54e1-dadf-11e3-910c-5b1996442876",
+      "target": "7b1012e1-dadf-11e3-910c-5b1996442876",
+      "id": "dcf59ed2-dae4-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "dcf529a0-dae4-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "d729f461-dadf-11e3-910c-5b1996442876",
+      "target": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "id": "146bc565-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "146b5030-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "33613a31-dae6-11e3-910c-5b1996442876",
+      "target": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "id": "33618853-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3360c500-dae6-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "33613a31-dae6-11e3-910c-5b1996442876",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "33616148-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3360c500-dae6-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "33613a31-dae6-11e3-910c-5b1996442876",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "33616142-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3360c500-dae6-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "c4ff5d51-dae6-11e3-910c-5b1996442876",
+      "target": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "id": "c4ff5d55-dae6-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "c4fec110-dae6-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "90e3ada1-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "e5ccf501-dbcd-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "e5cc31b0-dbcd-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "917e8141-d39d-11e3-a954-ab35be27f3fc",
+      "id": "565c8c55-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "565bc900-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "62f41f31-d305-11e3-a954-ab35be27f3fc",
+      "id": "39cb8372-db8c-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "39cb0e40-db8c-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "id": "56368bd6-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "5635ef90-dae8-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "2e7634a4-a16e-11e3-ace9-1fa4c6cf2894",
+      "id": "56368bd1-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "5635ef90-dae8-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "1ab208f7-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1ab145a0-dae8-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "1ab208f4-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1ab145a0-dae8-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "3cce2974-c354-11e3-bdbd-476fefd65326",
+      "id": "1ab1e1e2-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1ab145a0-dae8-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "e8c37134-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e8c2fc00-dae7-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "e8c37131-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e8c2fc00-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "e8c34a21-dae7-11e3-910c-5b1996442876",
+      "id": "e8c34a22-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e8c2fc00-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "id": "01fc2854-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "01fb8c10-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "01fc0141-dae7-11e3-910c-5b1996442876",
+      "id": "01fc0142-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "01fb8c10-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "target": "3b8d0da1-ac39-11e3-a803-9f58509b41cd",
+      "id": "bd8f7e92-e1cd-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "bd8ebb40-e1cd-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "01fc0141-dae7-11e3-910c-5b1996442876",
+      "target": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "id": "01fc2852-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "01fb8c10-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "865fd462-dbce-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "865f1110-dbce-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "867d6d61-d39d-11e3-a954-ab35be27f3fc",
+      "id": "3fa397b5-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "3fa2d460-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "ef9d5570-cfb6-11e3-a954-ab35be27f3fc",
+      "id": "0b58fda2-db8d-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "0b588870-db8d-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "6f71fa43-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6f709ab0-db64-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "d2e49161-cf8d-11e3-a954-ab35be27f3fc",
+      "id": "6f71d332-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6f709ab0-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "57cf1ad4-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "57ce0960-db64-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "57cef3c1-db64-11e3-910c-5b1996442876",
+      "id": "57cef3c2-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "57ce0960-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "id": "6ac5c236-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6abd36b0-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "id": "6ac5c235-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6abd36b0-db62-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "87b5ceb5-d871-11e3-a275-9521abe7520f",
+      "id": "6ac5c231-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6abd36b0-db62-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "87b5ceb5-d871-11e3-a275-9521abe7520f",
+      "id": "6ac59b2a-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6abd36b0-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "id": "95c40944-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95c31ee0-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "id": "95c40943-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95c31ee0-dae7-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "7211ed74-cb95-11e3-bdbd-476fefd65326",
+      "id": "95c3e23c-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95c31ee0-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "7211ed74-cb95-11e3-bdbd-476fefd65326",
+      "id": "95c3e23a-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "95c31ee0-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "target": "d5db07a4-b9b4-11e3-bdbd-476fefd65326",
+      "id": "e6b597e2-e1ce-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "e6b43850-e1ce-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "e8c34a21-dae7-11e3-910c-5b1996442876",
+      "target": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "id": "e8c3713b-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e8c2fc00-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e8c34a21-dae7-11e3-910c-5b1996442876",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "e8c37135-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e8c2fc00-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e8c34a21-dae7-11e3-910c-5b1996442876",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "e8c34a25-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e8c2fc00-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "d09294a1-dbce-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "d091d150-dbce-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "id": "04f4b455-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "04f3c9f0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "bcc49b01-d307-11e3-a954-ab35be27f3fc",
+      "id": "47e74f62-db8d-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "47e6b320-db8d-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "1811b3c6-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1810f070-db65-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "76933ba9-b9b0-11e3-bdbd-476fefd65326",
+      "id": "1811b3c1-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "1810f070-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "02e21e46-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "02e15af0-db65-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "68b90401-cfb6-11e3-a954-ab35be27f3fc",
+      "id": "02e21e41-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "02e15af0-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "5c253de0-db09-11e3-910c-5b1996442876",
+      "id": "e61d4293-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e61c7f30-db0a-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "5c253de0-db09-11e3-910c-5b1996442876",
+      "id": "e61d4292-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e61c7f30-db0a-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "0adabd91-cfb3-11e3-a954-ab35be27f3fc",
+      "id": "e61d428e-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e61c7f30-db0a-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "0adabd91-cfb3-11e3-a954-ab35be27f3fc",
+      "id": "e61d428c-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e61c7f30-db0a-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "id": "e8c3713e-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e8c2fc00-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "id": "e8c3713d-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e8c2fc00-dae7-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "e8c34a21-dae7-11e3-910c-5b1996442876",
+      "id": "e8c37139-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e8c2fc00-dae7-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "e8c34a21-dae7-11e3-910c-5b1996442876",
+      "id": "e8c37137-dae7-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e8c2fc00-dae7-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "target": "9bc7c001-a9de-11e3-af25-7f5aef879767",
+      "id": "adbd3392-e1cd-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "adbbacf0-e1cd-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "7eb16671-dae8-11e3-910c-5b1996442876",
+      "target": "c4ff5d54-dae6-11e3-910c-5b1996442876",
+      "id": "7eb16675-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "7eb0a320-dae8-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "ecd2c271-dae8-11e3-910c-5b1996442876",
+      "target": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "id": "ecd31091-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ecd24d40-dae8-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "ecd2c271-dae8-11e3-910c-5b1996442876",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "ecd2e985-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ecd24d40-dae8-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "ecd2c271-dae8-11e3-910c-5b1996442876",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "ecd2c275-dae8-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ecd24d40-dae8-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e1447c31-db08-11e3-910c-5b1996442876",
+      "target": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "id": "ea727dc1-db08-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ea705ae0-db08-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "e1447c31-db08-11e3-910c-5b1996442876",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "ea714545-db08-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ea705ae0-db08-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "e1447c31-db08-11e3-910c-5b1996442876",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "ea711e35-db08-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ea705ae0-db08-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "217c7501-db09-11e3-910c-5b1996442876",
+      "target": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "id": "217c7505-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "217bffd0-db09-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5c2516d1-db09-11e3-910c-5b1996442876",
+      "target": "5c253de0-db09-11e3-910c-5b1996442876",
+      "id": "5c253de1-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "5c24a1a0-db09-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "e3ed3fed-cf95-11e3-a954-ab35be27f3fc",
+      "id": "2c0fdd71-dbce-11e3-910c-5b1996442876",
+      "edge_context": "duality",
+      "statement_id": "2c0cd030-dbce-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "f5dbbdfb-bf73-11e3-bdbd-476fefd65326",
+      "id": "d1d76b22-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "d1d6cee0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "bbd349a2-af8e-11e3-a530-f7ff52338200",
+      "id": "6ccc4e82-db8c-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "6ccbd950-db8c-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "id": "7fa9bb41-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "7fa8d0e0-db0b-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "48b04b51-d3a3-11e3-a954-ab35be27f3fc",
+      "id": "7fa99432-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "7fa8d0e0-db0b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "060d3a52-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "7c2d17a1-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "7c2c7b60-db0b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "3fd454d7-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3fd3b890-db0b-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "3fd454d4-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3fd3b890-db0b-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "f0f32bbc-d86d-11e3-a275-9521abe7520f",
+      "id": "3fd42dc2-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3fd3b890-db0b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "e61d4289-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e61c7f30-db0a-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "e61d4286-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e61c7f30-db0a-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "0adabd91-cfb3-11e3-a954-ab35be27f3fc",
+      "id": "e61d4281-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "e61c7f30-db0a-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "id": "ca8b75a1-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ca8ab250-db0a-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "ca8b4e91-db0a-11e3-910c-5b1996442876",
+      "id": "ca8b4e92-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ca8ab250-db0a-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5c253de0-db09-11e3-910c-5b1996442876",
+      "target": "d5db07a4-b9b4-11e3-bdbd-476fefd65326",
+      "id": "f22f8542-e1ce-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "f22e4cc0-e1ce-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "23af5731-dae0-11e3-910c-5b1996442876",
+      "target": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "id": "812c7ff1-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "812bbca0-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "23af5731-dae0-11e3-910c-5b1996442876",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "812c58e8-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "812bbca0-dae5-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "23af5731-dae0-11e3-910c-5b1996442876",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "812c58e2-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "812bbca0-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "5bc63521-dae1-11e3-910c-5b1996442876",
+      "target": "b8304f32-ba84-11e3-bdbd-476fefd65326",
+      "id": "a0c83c55-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "a0c7c720-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8b0ae291-dae1-11e3-910c-5b1996442876",
+      "target": "fec92b71-cfaf-11e3-a954-ab35be27f3fc",
+      "id": "c79a9715-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "c799fad0-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "b95d9111-d39d-11e3-a954-ab35be27f3fc",
+      "id": "76bbe6d4-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "76bafc70-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "3b8d0da1-ac39-11e3-a803-9f58509b41cd",
+      "id": "d42fc922-db8d-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "d42f05d0-db8d-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "594d255d-cf9d-11e3-a954-ab35be27f3fc",
+      "id": "adfdd443-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "adfce9e0-db65-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "7efaf311-cfe6-11e3-a954-ab35be27f3fc",
+      "id": "adfdad32-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "adfce9e0-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "8e369b11-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8e35b0b0-db65-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "b6b079f0-d483-11e3-a954-ab35be27f3fc",
+      "id": "8e367402-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8e35b0b0-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "id": "8d61a9c4-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8d5ffc10-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "id": "8d61a9c3-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8d5ffc10-db63-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "8d615ba1-db63-11e3-910c-5b1996442876",
+      "id": "8d6182b9-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8d5ffc10-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "8d615ba1-db63-11e3-910c-5b1996442876",
+      "id": "8d6182b7-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8d5ffc10-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "id": "484d0568-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "484c4210-dae5-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "id": "484d0567-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "484c4210-dae5-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "ca3ef53a-ad1c-11e3-b535-0f31502e3c9f",
+      "id": "484d0563-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "484c4210-dae5-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "ca3ef53a-ad1c-11e3-b535-0f31502e3c9f",
+      "id": "484d0561-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "484c4210-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "484cde53-dae5-11e3-910c-5b1996442876",
+      "target": "9e9bec10-d306-11e3-a954-ab35be27f3fc",
+      "id": "8c1f4922-e1ce-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "8c1e10a0-e1ce-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "f5dbbdfb-bf73-11e3-bdbd-476fefd65326",
+      "id": "bb3002b5-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "bb2f6670-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "6bfb49c2-d303-11e3-a954-ab35be27f3fc",
+      "id": "be6e2242-db8c-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "be6dd420-db8c-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "fe748066-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fe73bd10-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "fe748060-db63-11e3-910c-5b1996442876",
+      "id": "fe748061-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fe73bd10-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "id": "d3ed5b03-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "d3ecbec0-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "id": "aa43011c-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "aa423dc0-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "id": "aa43011b-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "aa423dc0-db63-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "88e35338-bffc-11e3-bdbd-476fefd65326",
+      "id": "d3ed33f2-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "d3ecbec0-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "aa42da00-db63-11e3-910c-5b1996442876",
+      "id": "aa430117-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "aa423dc0-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "aa42da00-db63-11e3-910c-5b1996442876",
+      "id": "aa430115-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "aa423dc0-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "id": "812c7ff4-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "812bbca0-dae5-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "e324abd4-cfad-11e3-a954-ab35be27f3fc",
+      "id": "812c7ff3-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "812bbca0-dae5-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "23af5731-dae0-11e3-910c-5b1996442876",
+      "id": "812c58ec-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "812bbca0-dae5-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "23af5731-dae0-11e3-910c-5b1996442876",
+      "id": "812c58ea-dae5-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "812bbca0-dae5-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "target": "3b8d0da1-ac39-11e3-a803-9f58509b41cd",
+      "id": "6413d222-e1ce-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "6412e7c0-e1ce-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "867d6d61-d39d-11e3-a954-ab35be27f3fc",
+      "id": "35dead52-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "35ddea00-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "c4f032a0-d305-11e3-a954-ab35be27f3fc",
+      "id": "abd25702-db8c-11e3-910c-5b1996442876",
+      "edge_context": "tarotastro",
+      "statement_id": "abd1bac0-db8c-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "c4819a06-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "c480d6b0-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "aa430112-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "aa423dc0-db63-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "aa42da06-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "aa423dc0-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "c4819a00-db63-11e3-910c-5b1996442876",
+      "id": "c4819a01-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "c480d6b0-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "aa42da00-db63-11e3-910c-5b1996442876",
+      "id": "aa42da01-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "aa423dc0-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "8d6182b4-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8d5ffc10-db63-11e3-910c-5b1996442876",
+      "weight": "1"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "8d6182b1-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8d5ffc10-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "8d615ba1-db63-11e3-910c-5b1996442876",
+      "id": "8d615ba2-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8d5ffc10-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "6b701684-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6b6f5330-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "6b6fef71-db63-11e3-910c-5b1996442876",
+      "id": "6b6fef72-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6b6f5330-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "target": "9bc7c001-a9de-11e3-af25-7f5aef879767",
+      "id": "6dbc48f2-e1d0-11e3-ac6a-159ed2b68234",
+      "edge_context": "tarotastro",
+      "statement_id": "6dbb85a0-e1d0-11e3-ac6a-159ed2b68234",
+      "weight": "3"
+    },
+    {
+      "source": "f3870e70-db09-11e3-910c-5b1996442876",
+      "target": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "id": "f3870e74-db09-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "f3864b20-db09-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "1ab089e1-db0a-11e3-910c-5b1996442876",
+      "target": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "id": "27cb5610-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "27cae0d0-db0a-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "1ab089e1-db0a-11e3-910c-5b1996442876",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "27cb560a-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "27cae0d0-db0a-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "1ab089e1-db0a-11e3-910c-5b1996442876",
+      "target": "4f067211-cff0-11e3-a954-ab35be27f3fc",
+      "id": "27cb5604-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "27cae0d0-db0a-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "ca8b4e91-db0a-11e3-910c-5b1996442876",
+      "target": "36493384-d486-11e3-a954-ab35be27f3fc",
+      "id": "ca8b4e95-db0a-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "ca8ab250-db0a-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "94cfb3d0-db0b-11e3-910c-5b1996442876",
+      "target": "5c253de0-db09-11e3-910c-5b1996442876",
+      "id": "94cfb3d4-db0b-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "94cef080-db0b-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "b55d37b1-db62-11e3-910c-5b1996442876",
+      "target": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "b55d5ec2-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "b55c9b70-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "cc8c6dc1-db62-11e3-910c-5b1996442876",
+      "target": "dba3e476-ab63-11e3-80a6-8f3ba3a3f2e7",
+      "id": "cc8c6dc5-db62-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "cc8bf890-db62-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "6b6fef71-db63-11e3-910c-5b1996442876",
+      "target": "90e3ada6-cf8f-11e3-a954-ab35be27f3fc",
+      "id": "6b701682-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "6b6f5330-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8d615ba1-db63-11e3-910c-5b1996442876",
+      "target": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "id": "8d61a9c1-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8d5ffc10-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "8d615ba1-db63-11e3-910c-5b1996442876",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "8d6182b5-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8d5ffc10-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "8d615ba1-db63-11e3-910c-5b1996442876",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "8d615ba5-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "8d5ffc10-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "aa42da00-db63-11e3-910c-5b1996442876",
+      "target": "88798ef4-d302-11e3-a954-ab35be27f3fc",
+      "id": "aa430119-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "aa423dc0-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "aa42da00-db63-11e3-910c-5b1996442876",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "aa430113-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "aa423dc0-db63-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "aa42da00-db63-11e3-910c-5b1996442876",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "aa42da04-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "aa423dc0-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "c4819a00-db63-11e3-910c-5b1996442876",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "c4819a04-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "c480d6b0-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "fe748060-db63-11e3-910c-5b1996442876",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "fe748064-db63-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "fe73bd10-db63-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "27369d30-db64-11e3-910c-5b1996442876",
+      "target": "812c58e1-dae5-11e3-910c-5b1996442876",
+      "id": "27369d34-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "273600f0-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "57cef3c1-db64-11e3-910c-5b1996442876",
+      "target": "e28c2757-b9b2-11e3-bdbd-476fefd65326",
+      "id": "57cf1ad2-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "57ce0960-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "825e5681-db64-11e3-910c-5b1996442876",
+      "target": "95c3e231-dae7-11e3-910c-5b1996442876",
+      "id": "825e7d92-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "825dba40-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "a1ef6480-db64-11e3-910c-5b1996442876",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "a1ef6484-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "a1eec840-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "be0ccf91-db64-11e3-910c-5b1996442876",
+      "target": "6b43c601-cf94-11e3-a954-ab35be27f3fc",
+      "id": "be0ccf95-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "be0c0c40-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "d73145f0-db64-11e3-910c-5b1996442876",
+      "target": "829b5e11-cfb4-11e3-a954-ab35be27f3fc",
+      "id": "d73145f4-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "d730a9b0-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "f15949a1-db64-11e3-910c-5b1996442876",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "f15970b1-db64-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "f158ad60-db64-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "3f211781-db65-11e3-910c-5b1996442876",
+      "target": "48ab0b94-d49d-11e3-a954-ab35be27f3fc",
+      "id": "3f211785-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "3f205430-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "585aeaa0-db65-11e3-910c-5b1996442876",
+      "target": "5ceef862-aba7-11e3-a803-9f58509b41cd",
+      "id": "585aeaa4-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "585a2750-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "bc3f9431-db65-11e3-910c-5b1996442876",
+      "target": "484cde53-dae5-11e3-910c-5b1996442876",
+      "id": "bc3f9435-db65-11e3-910c-5b1996442876",
+      "edge_context": "tarot",
+      "statement_id": "bc3ea9d0-db65-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "0209f071-db96-11e3-910c-5b1996442876",
+      "target": "0ceaaf81-d39d-11e3-a954-ab35be27f3fc",
+      "id": "09ef4567-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "09ee5b00-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "0209f071-db96-11e3-910c-5b1996442876",
+      "target": "60e2a76d-a14c-11e3-98c5-476729c16049",
+      "id": "09ef4562-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "09ee5b00-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    },
+    {
+      "source": "0209f071-db96-11e3-910c-5b1996442876",
+      "target": "8ece47c1-cf9f-11e3-a954-ab35be27f3fc",
+      "id": "04f4db61-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "04f3c9f0-db96-11e3-910c-5b1996442876",
+      "weight": "2"
+    },
+    {
+      "source": "0209f071-db96-11e3-910c-5b1996442876",
+      "target": "e8c34a24-dae7-11e3-910c-5b1996442876",
+      "id": "04f4b452-db96-11e3-910c-5b1996442876",
+      "edge_context": "qabbalah",
+      "statement_id": "04f3c9f0-db96-11e3-910c-5b1996442876",
+      "weight": "3"
+    }
+  ]
+}
