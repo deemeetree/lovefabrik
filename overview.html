@@ -114,10 +114,12 @@
                     }
 
                     s.settings({
-                        minNodeSize: 0,
-                        maxNodeSize: 18,
+                        minNodeSize: 2,
+                        maxNodeSize: 15,
+                        labelColor: 'node',
                         labelHoverBGColor: 'node',
-                        drawLabels: false,
+                        labelThreshold: 15,
+                        drawLabels: false
                     });
 
 
@@ -147,6 +149,43 @@
                         n.originalColor = n.color;
 
                     });
+
+                    function filterNode(selcard) {
+                        var nodeId = selcard,
+                                toKeep = s.graph.neighbors(nodeId);
+                        toKeep[nodeId] = selcard;
+
+                        s.graph.nodes().forEach(function(n) {
+                            if (toKeep[n.id])    {
+                                n.color = n.originalColor;
+                                n.hidden = false;
+                            }
+                            else
+                                n.hidden = true;
+                        });
+
+                        s.graph.edges().forEach(function(e) {
+                            if (toKeep[e.source] && toKeep[e.target])   {
+                                e.color = e.originalColor;
+                                e.hidden = false;
+                            }
+                            else
+                                e.hidden = true;
+                        });
+
+                        s.settings({
+                            minNodeSize: 5,
+                            maxNodeSize: 15,
+                            labelColor: 'node',
+                            labelHoverBGColor: 'node',
+                            drawLabels: true,
+                            labelThreshold: 12
+
+
+                        });
+
+                        s.refresh();
+                    }
 
                     s.bind('clickNode', function(e) {
                                 var nodeId = e.data.node.id,
@@ -184,9 +223,52 @@
                             e.color = e.originalColor;
                             e.hidden = false;
                         });
-
+                        s.settings({
+                            minNodeSize: 2,
+                            maxNodeSize: 15,
+                            labelColor: 'node',
+                            labelHoverBGColor: 'node',
+                            labelThreshold: 15,
+                            drawLabels: false
+                        });
                         // Same as in the previous event:
                         s.refresh();
+                    });
+
+
+                    $("#earth").on('click', function(e) {
+
+                        // And finally, let's initialize the first graph:
+                        filterNode(getParameterByName('earth'));
+                        $( '#SW' ).fadeTo( "fast", $('#SW').css("opacity") == "1" ? "0.4" : "1");
+
+
+                    });
+
+                    $("#fire").on('click', function(e) {
+
+                        // And finally, let's initialize the first graph:
+                        filterNode(getParameterByName('fire'));
+
+                        $( '#SE' ).fadeTo( "fast", $('#SE').css("opacity") == "1" ? "0.4" : "1");
+
+                    });
+
+
+                    $("#air").on('click hover', function(e) {
+
+                        // And finally, let's initialize the first graph:
+                        filterNode(getParameterByName('air'));
+                        $( '#NE' ).fadeTo( "fast", $('#NE').css("opacity") == "1" ? "0.4" : "1");
+                    });
+
+                    $("#water").on('click', function(e) {
+
+                        // And finally, let's initialize the first graph:
+                        filterNode(getParameterByName('water'));
+
+                        $( '#NW' ).fadeTo( "fast", $('#NW').css("opacity") == "1" ? "0.4" : "1");
+
                     });
 
 
