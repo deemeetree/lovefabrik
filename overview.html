@@ -113,6 +113,13 @@
                         gravity: 100
                     }
 
+                    var filteredNodes = [];
+
+                    var idEarth = getParameterByName('earth'),
+                            idAir = getParameterByName('air'),
+                            idWater = getParameterByName('water'),
+                            idFire = getParameterByName('fire');
+
                     s.settings({
                         minNodeSize: 2,
                         maxNodeSize: 15,
@@ -150,14 +157,15 @@
 
                     });
 
-                    function filterNode(selcard) {
+                    function filterNode(selcard,filteredNodes) {
                         var nodeId = selcard,
                                 toKeep = s.graph.neighbors(nodeId);
                         toKeep[nodeId] = selcard;
 
+                        console.log(filteredNodes);
+
                         s.graph.nodes().forEach(function(n) {
                             if (toKeep[n.id])    {
-                                n.color = n.originalColor;
                                 n.hidden = false;
                             }
                             else
@@ -166,7 +174,6 @@
 
                         s.graph.edges().forEach(function(e) {
                             if (toKeep[e.source] && toKeep[e.target])   {
-                                e.color = e.originalColor;
                                 e.hidden = false;
                             }
                             else
@@ -238,8 +245,16 @@
 
                     $("#earth").on('click', function(e) {
 
-                        // And finally, let's initialize the first graph:
-                        filterNode(getParameterByName('earth'));
+                        var positionNode = filteredNodes.indexOf(idEarth);
+                        if (positionNode == -1) {
+                            filteredNodes.push(idEarth);
+                        }
+                        else {
+                            filteredNodes.splice(positionNode, 1);
+                        }
+
+                        filterNode(idEarth,filteredNodes);
+
                         $( '#SW' ).fadeTo( "fast", $('#SW').css("opacity") == "1" ? "0.4" : "1");
 
 
@@ -247,8 +262,16 @@
 
                     $("#fire").on('click', function(e) {
 
-                        // And finally, let's initialize the first graph:
-                        filterNode(getParameterByName('fire'));
+                        var positionNode = filteredNodes.indexOf(idFire);
+
+                        if (positionNode == -1) {
+                            filteredNodes.push(idFire);
+                        }
+                        else {
+                            filteredNodes.splice(positionNode, 1);
+                        }
+
+                        filterNode(idFire,filteredNodes);
 
                         $( '#SE' ).fadeTo( "fast", $('#SE').css("opacity") == "1" ? "0.4" : "1");
 
@@ -257,15 +280,32 @@
 
                     $("#air").on('click hover', function(e) {
 
-                        // And finally, let's initialize the first graph:
-                        filterNode(getParameterByName('air'));
+                        var positionNode = filteredNodes.indexOf(idAir);
+
+                        if (positionNode == -1) {
+                            filteredNodes.push(idAir);
+                        }
+                        else {
+                            filteredNodes.splice(positionNode, 1);
+                        }
+
+                        filterNode(idAir,filteredNodes);
+
                         $( '#NE' ).fadeTo( "fast", $('#NE').css("opacity") == "1" ? "0.4" : "1");
                     });
 
                     $("#water").on('click', function(e) {
 
-                        // And finally, let's initialize the first graph:
-                        filterNode(getParameterByName('water'));
+                        var positionNode = filteredNodes.indexOf(idWater);
+
+                        if (positionNode == -1) {
+                            filteredNodes.push(idWater);
+                        }
+                        else {
+                            filteredNodes.splice(positionNode, 1);
+                        }
+
+                        filterNode(idWater,filteredNodes);
 
                         $( '#NW' ).fadeTo( "fast", $('#NW').css("opacity") == "1" ? "0.4" : "1");
 
