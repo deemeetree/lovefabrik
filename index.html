@@ -29,7 +29,7 @@
 
             if (length > 5 && entered.indexOf("?") != -1) {
                 alert("You asked: " + entered);
-                window.location = "dna.html";
+                window.location = "dna.html?question=" + entered;
             }
             else {
                 alert("Divination starts with a question...");

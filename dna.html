@@ -9,7 +9,7 @@
 
 </head>
 <body>
-
+        <div id="question"></div>
         <div id="header"><a href="./"><img src="lovefabriklogo.png" border="0"></a></div>
         <div id="graph-container">
             <div id="NW"><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water</div>
@@ -34,6 +34,16 @@
 
 <script>
 ;(function(){
+
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+        return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+
+
+    $('#question').html(getParameterByName('question'));
 
 
     // Play a sound
@@ -206,7 +216,7 @@
 
                         setTimeout(function() {
                             s.stopForceAtlas2();
-                            window.location = "reading.html" + pathe;
+                            window.location = "reading.html" + pathe + '&question=' + getParameterByName('question');
                         },timeout);
                     }
 

@@ -11,7 +11,7 @@
 <body>
 
 <div id="header"><a href="./"><img src="lovefabriklogo.png" border="0"></a></div>
-
+<div id="question"></div>
 <div id="graph-container">
 
     <div id="NW"><br><br><br><a href="javascript:" id="water">❤ emotional & intuitive</a></div>
@@ -46,6 +46,7 @@
             return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
         }
 
+        $('#question').html(getParameterByName('question'));
 
         myAudio = new Audio('rocket.ogg');
         if (typeof myAudio.loop == 'boolean')

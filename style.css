@@ -7,6 +7,15 @@
     url('fonts/IstokWeb-Regular.svg#IstokWeb-Regular') format('svg');
 }
 
+@font-face {
+    font-family: 'IstokWeb-Bold';
+    src: url('fonts/IstokWeb-Bold.eot');
+    src: url('fonts/IstokWeb-Bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/IstokWeb-Bold.woff') format('woff'),
+    url('fonts/IstokWeb-Bold.ttf') format('truetype'),
+    url('fonts/IstokWeb-Bold.svg#IstokWeb-Bold') format('svg');
+}
+
 body {
     font: 16px 'IstokWeb-Regular',sans-serif;
     margin: 0;
@@ -15,6 +24,7 @@ body {
     height: 100%;
     min-height: 100%;
     overflow: visible;
+    z-index: -1;
 }
 
 #graph-container {
@@ -50,6 +60,18 @@ body {
     top: 20px;
     z-index: 15;
     opacity: 1;
+}
+
+#question {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+    opacity: 0.1;
+    z-index: 1;
+    top: 40%;
+    font: 50px 'IstokWeb-Bold',sans-serif;
 }
 
 
