@@ -144,7 +144,7 @@
             // Let's now bind this new function to the "clickNode" event:
             s.bind('clickNode', function(event) {
                 if (!event.data.node.center)
-                    refreshGraph(event.data.node.id);
+                    refreshGraph(event.data.node.id,event.data.node.color);
             });
 
             function showNext() {
