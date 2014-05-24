@@ -75,6 +75,28 @@ body {
 }
 
 
+#control {
+    position: fixed;
+    bottom: 0;
+    right: 0; /* "#menu width" */
+    font: 15px 'IstokWeb-Bold',sans-serif;
+    /* width: 2em;
+     height: auto;*/
+    padding: 1.6em 1.6em;
+    z-index: 15;
+}
+
+#control a {
+    text-decoration: none;
+    color: #444444;
+}
+
+
+#control a:hover {
+
+    color: #cccccc;
+}
+
 a {
     font: 'IstokWeb-Regular',sans-serif;
 

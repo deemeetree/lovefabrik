@@ -20,6 +20,8 @@
     <div id="SE"><br><br><br><a href="javascript:" id="fire">❤ sexual & creative</a></div>
 </div>
 
+<div id="control"></div>
+
 
 
 
@@ -64,6 +66,8 @@
         }
         myAudio.play();
 
+
+        var elementClicks = 0;
 
         var s = new sigma({
                     container: 'graph-container',
@@ -143,12 +147,19 @@
                     refreshGraph(event.data.node.id);
             });*/
 
+            function showNext() {
+                elementClicks = elementClicks + 1;
+                if (elementClicks > 3) {
+                    $('#control').html('<a href="' + document.URL.replace('reading','overview') + '">advanced reading</a>');
+                }
+            }
+
             $("#earth").on('click', function(e) {
 
                 // And finally, let's initialize the first graph:
                 refreshGraph(getParameterByName('earth'),getParameterByName('earthcolor'));
                 $( '#SW' ).fadeTo( "fast", $('#SW').css("opacity") == "1" ? "0.4" : "1");
-
+                showNext();
 
             });
 
@@ -158,6 +169,7 @@
                 refreshGraph(getParameterByName('fire'),getParameterByName('firecolor'));
 
                 $( '#SE' ).fadeTo( "fast", $('#SE').css("opacity") == "1" ? "0.4" : "1");
+                showNext();
 
             });
 
@@ -167,6 +179,7 @@
                 // And finally, let's initialize the first graph:
                 refreshGraph(getParameterByName('air'),getParameterByName('aircolor'));
                 $( '#NE' ).fadeTo( "fast", $('#NE').css("opacity") == "1" ? "0.4" : "1");
+                showNext();
             });
 
             $("#water").on('click', function(e) {
@@ -175,6 +188,7 @@
                 refreshGraph(getParameterByName('water'),getParameterByName('watercolor'));
 
                 $( '#NW' ).fadeTo( "fast", $('#NW').css("opacity") == "1" ? "0.4" : "1");
+                showNext();
 
             });
 
