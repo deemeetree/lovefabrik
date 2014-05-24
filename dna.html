@@ -12,10 +12,10 @@
 
         <div id="choices"></div>
         <div id="graph-container">
-            <div id="NW"><br><br><br>&nbsp;&nbsp;&nbsp;water</div>
-            <div id="NE"><br><br><br>&nbsp;&nbsp;&nbsp;air<br></div>
-            <div id="SW"><br><br><br>&nbsp;&nbsp;&nbsp;earth</div>
-            <div id="SE"><br><br><br>&nbsp;&nbsp;&nbsp;fire</div>
+            <div id="NW"><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water</div>
+            <div id="NE"><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;air<br></div>
+            <div id="SW"><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earth</div>
+            <div id="SE"><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fire</div>
         </div>
 
 
@@ -166,17 +166,22 @@
                         element = 'earth';
                         pathe += '?earth=' + nodeid;
                         $('#SW').html('<br><br><br>❤&nbsp;&nbsp;earth');
+                        $( '#SW' ).fadeTo( "fast", $('#SW').css("opacity") == "1" ? "0.4" : "1");
                     }
                     else if (clickCount == 1) {
                         element = 'fire';
                         pathe += '&fire=' + nodeid;
                         $('#SE').html('<br><br><br>❤&nbsp;&nbsp;fire');
+                        $( '#SE' ).fadeTo( "fast", $('#SE').css("opacity") == "1" ? "0.4" : "1");
+
 
                     }
                     else if (clickCount == 2) {
                         element = 'air';
                         pathe += '&air=' + nodeid;
                         $('#NE').html('<br><br><br>❤&nbsp;&nbsp;air');
+                        $( '#NE' ).fadeTo( "fast", $('#NE').css("opacity") == "1" ? "0.4" : "1");
+
 
 
                     }
@@ -184,6 +189,8 @@
                         element = 'water';
                         pathe += '&water=' + nodeid;
                         $('#NW').html('<br><br><br>❤&nbsp;&nbsp;water');
+                        $( '#NW' ).fadeTo( "fast", $('#NW').css("opacity") == "1" ? "0.4" : "1");
+
 
 
                     }
