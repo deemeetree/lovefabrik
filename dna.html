@@ -11,7 +11,12 @@
 <body>
 
         <div id="choices"></div>
-        <div id="graph-container"></div>
+        <div id="graph-container">
+            <div id="NW"><br><br><br>&nbsp;&nbsp;&nbsp;water</div>
+            <div id="NE"><br><br><br>&nbsp;&nbsp;&nbsp;air<br></div>
+            <div id="SW"><br><br><br>&nbsp;&nbsp;&nbsp;earth</div>
+            <div id="SE"><br><br><br>&nbsp;&nbsp;&nbsp;fire</div>
+        </div>
 
 
 
@@ -153,33 +158,37 @@
                     var nodeid = e.data.node.id;
 
                     console.log(e.data.node.originalLabel);
-                    var text = '❤';
-                    var contents = $('#choices').html();
+
                     var element = '';
 
 
                     if (clickCount == 0) {
                         element = 'earth';
                         pathe += '?earth=' + nodeid;
+                        $('#SW').html('<br><br><br>❤&nbsp;&nbsp;earth');
                     }
                     else if (clickCount == 1) {
                         element = 'fire';
                         pathe += '&fire=' + nodeid;
+                        $('#SE').html('<br><br><br>❤&nbsp;&nbsp;fire');
+
                     }
                     else if (clickCount == 2) {
                         element = 'air';
                         pathe += '&air=' + nodeid;
+                        $('#NE').html('<br><br><br>❤&nbsp;&nbsp;air');
+
 
                     }
                     else if (clickCount == 3) {
                         element = 'water';
                         pathe += '&water=' + nodeid;
+                        $('#NW').html('<br><br><br>❤&nbsp;&nbsp;water');
+
 
                     }
 
                     if (clickCount < 4) {
-                        contents = contents + '<br><br>' + text + ' ' + element;
-                        $('#choices').html(contents);
                         clickCount = clickCount + 1;
                     }
                     else {
