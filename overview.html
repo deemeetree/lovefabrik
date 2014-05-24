@@ -157,27 +157,50 @@
 
                     });
 
-                    function filterNode(selcard,filteredNodes) {
-                        var nodeId = selcard,
-                                toKeep = s.graph.neighbors(nodeId);
-                        toKeep[nodeId] = selcard;
 
-                        console.log(filteredNodes);
+
+                    function filterNode(filteredNodes) {
+
+                        var toKeep = [];
+
+                        for (var i = 0; i < filteredNodes.length; ++i) {
+                            toKeep.push(s.graph.neighbors(filteredNodes[i]));
+                        }
+
+
+                        var toKeepNodes = [];
+
+                        console.log(toKeep.length);
+
+                        for (var i = 0; i < toKeep.length; ++i) {
+
+
+                            for (var key in toKeep[i]) {
+                                if (toKeep[i].hasOwnProperty(key)) {
+                                    toKeepNodes.push(key);
+                                }
+                            }
+
+                        }
+
 
                         s.graph.nodes().forEach(function(n) {
-                            if (toKeep[n.id])    {
-                                n.hidden = false;
-                            }
-                            else
-                                n.hidden = true;
+
+                                if (toKeepNodes.indexOf(n.id) != -1)    {
+                                    n.hidden = false;
+                                }
+                                else
+                                    n.hidden = true;
+
                         });
 
                         s.graph.edges().forEach(function(e) {
-                            if (toKeep[e.source] && toKeep[e.target])   {
-                                e.hidden = false;
-                            }
-                            else
-                                e.hidden = true;
+                                if (toKeepNodes.indexOf(e.source) != -1 && toKeepNodes.indexOf(e.target) != -1)   {
+                                    e.hidden = false;
+                                }
+                                else
+                                    e.hidden = true;
+
                         });
 
                         s.settings({
@@ -253,7 +276,7 @@
                             filteredNodes.splice(positionNode, 1);
                         }
 
-                        filterNode(idEarth,filteredNodes);
+                        filterNode(filteredNodes);
 
                         $( '#SW' ).fadeTo( "fast", $('#SW').css("opacity") == "1" ? "0.4" : "1");
 
@@ -271,7 +294,7 @@
                             filteredNodes.splice(positionNode, 1);
                         }
 
-                        filterNode(idFire,filteredNodes);
+                        filterNode(filteredNodes);
 
                         $( '#SE' ).fadeTo( "fast", $('#SE').css("opacity") == "1" ? "0.4" : "1");
 
@@ -289,7 +312,7 @@
                             filteredNodes.splice(positionNode, 1);
                         }
 
-                        filterNode(idAir,filteredNodes);
+                        filterNode(filteredNodes);
 
                         $( '#NE' ).fadeTo( "fast", $('#NE').css("opacity") == "1" ? "0.4" : "1");
                     });
@@ -305,7 +328,7 @@
                             filteredNodes.splice(positionNode, 1);
                         }
 
-                        filterNode(idWater,filteredNodes);
+                        filterNode(filteredNodes);
 
                         $( '#NW' ).fadeTo( "fast", $('#NW').css("opacity") == "1" ? "0.4" : "1");
 
