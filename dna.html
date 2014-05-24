@@ -77,7 +77,7 @@
                 neighbors = {},
                 index = this.allNeighborsIndex[nodeId] || {};
 
-        for (k in dna)
+        for (k in index)
             neighbors[k] = this.nodesIndex[k];
 
         return neighbors;

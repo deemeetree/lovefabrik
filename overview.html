@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>LOVEFABRIK</title>
+    <link rel='stylesheet' href='style.css' />
+
+
+
+</head>
+<body>
+
+<div id="header"><a href="./"><img src="lovefabriklogo.png" border="0"></a></div>
+<div id="question"></div>
+<div id="graph-container">
+
+    <div id="NW"><br><br><br><a href="javascript:" id="water">❤ emotional & intuitive</a></div>
+    <div id="NE"><br><br><br><a href="javascript:" id="air">❤ intellectual & spiritual</a><br></div>
+    <div id="SW"><br><br><br><a href="javascript:" id="earth">❤ corporeal & material</a></div>
+    <div id="SE"><br><br><br><a href="javascript:" id="fire">❤ sexual & creative</a></div>
+</div>
+
+
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/sigma.min.js"></script>
+<script src="js/sigma.parsers.gexf.min.js"></script>
+<script src="js/sigma.parsers.json.min.js"></script>
+<script src="js/sigma.layout.forceAtlas2.js"></script>
+<script src="js/sigma.plugins.animate.min.js"></script>
+<script src="js/sigma.plugins.neighborhoods.js"></script>
+<script src="js/sigma.plugins.dragNodes.min.js"></script>
+
+
+
+
+
+
+
+<script>
+    ;(function(){
+
+        function getParameterByName(name) {
+            name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+            var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                    results = regex.exec(location.search);
+            return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
+
+        $('#question').html(getParameterByName('question'));
+
+        myAudio = new Audio('rocket.ogg');
+        if (typeof myAudio.loop == 'boolean')
+        {
+            myAudio.loop = true;
+        }
+        else
+        {
+            myAudio.addEventListener('ended', function() {
+                this.currentTime = 0;
+                this.play();
+            }, false);
+        }
+        myAudio.play();
+
+
+        // Add a method to the graph model that returns an
+// object with every neighbors of a node inside:
+
+
+
+
+        sigma.classes.graph.addMethod('neighbors', function(nodeId) {
+            var k,
+                    neighbors = {},
+                    index = this.allNeighborsIndex[nodeId] || {};
+
+            for (k in index)
+                neighbors[k] = this.nodesIndex[k];
+
+            return neighbors;
+        });
+
+// Initialize JSON parser for SIGMA visualization
+
+        sigma.parsers.gexf(
+                'divination.gexf',
+                { // Here is the ID of the DOM element that
+                    // will contain the graph:
+                    container: 'graph-container',
+                    renderer: {
+                        container: document.getElementById('graph-container'),
+                        type: 'canvas'
+                    }
+
+                },
+                function(s) {
+                    // This function will be executed when the
+                    // graph is displayed, with "s" the related
+                    // sigma instance.
+
+                    var i,
+                            timeout = 8000,
+                            nodes = s.graph.nodes(),
+                            len = nodes.length;
+
+
+                    var config = {
+                        outboundAttractionDistribution: true,
+                        adjustSizes: true,
+                        scalingRatio: 400,
+                        gravity: 100
+                    }
+
+                    s.settings({
+                        minNodeSize: 0,
+                        maxNodeSize: 18,
+                        labelHoverBGColor: 'node',
+                        drawLabels: false,
+                    });
+
+
+                    // Refresh the graph to see the changes:
+
+                    s.refresh();
+
+                    sigma.plugins.dragNodes(s, s.renderers[0]);
+
+                    // Circular rotation
+
+                    for (i = 0; i < 1000; i++) {
+                        setTimeout(function(i) {
+                            var angle = (i / 200) % (Math.PI*2);
+                            s.cameras[0].angle = angle;
+                            s.refresh();
+                        }.bind(void 0,i), 100*i);
+                    }
+
+
+                    // Initialize original labels
+
+                    s.graph.nodes().forEach(function(n) {
+
+                        // Save node's default label
+                        n.originalLabel = n.label;
+                        n.originalColor = n.color;
+
+                    });
+
+                    s.bind('clickNode', function(e) {
+                                var nodeId = e.data.node.id,
+                                        toKeep = s.graph.neighbors(nodeId);
+                                toKeep[nodeId] = e.data.node;
+
+                                s.graph.nodes().forEach(function(n) {
+                                    if (toKeep[n.id])    {
+                                        n.color = n.originalColor;
+                                        n.hidden = false;
+                                    }
+                                    else
+                                        n.hidden = true;
+                                });
+
+                                s.graph.edges().forEach(function(e) {
+                                    if (toKeep[e.source] && toKeep[e.target])   {
+                                        e.color = e.originalColor;
+                                        e.hidden = false;
+                                    }
+                                    else
+                                        e.hidden = true;
+                                });
+
+                        s.refresh();
+                    });
+
+                    s.bind('clickStage', function(e) {
+                        s.graph.nodes().forEach(function(n) {
+                            n.color = n.originalColor;
+                            n.hidden = false;
+                        });
+
+                        s.graph.edges().forEach(function(e) {
+                            e.color = e.originalColor;
+                            e.hidden = false;
+                        });
+
+                        // Same as in the previous event:
+                        s.refresh();
+                    });
+
+
+
+                }
+        );
+
+
+
+
+
+
+
+
+
+    })();
+</script>
+
+</body>
+</html>
