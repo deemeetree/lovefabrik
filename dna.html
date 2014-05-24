@@ -27,12 +27,13 @@
 <script src="js/sigma.parsers.json.min.js"></script>
 <script src="js/sigma.layout.forceAtlas2.js"></script>
 <script src="js/sigma.plugins.animate.min.js"></script>
+<script src="js/sigma.plugins.dragNodes.min.js"></script>
 
 
 
 
 
-<script>
+        <script>
 ;(function(){
 
     function getParameterByName(name) {
@@ -128,6 +129,7 @@
 
                 s.refresh();
 
+                sigma.plugins.dragNodes(s, s.renderers[0]);
 
                 // Circular rotation
 

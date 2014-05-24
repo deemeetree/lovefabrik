@@ -30,6 +30,8 @@
 <script src="js/sigma.layout.forceAtlas2.js"></script>
 <script src="js/sigma.plugins.animate.min.js"></script>
 <script src="js/sigma.plugins.neighborhoods.js"></script>
+<script src="js/sigma.plugins.dragNodes.min.js"></script>
+
 
 
 
@@ -74,7 +76,7 @@
                         maxNodeSize: 40,
                         minEdgeSize: 0.5,
                         maxEdgeSize: 3,
-                        labelThreshold: 39,
+                        labelThreshold: 25,
                         labelSize: 'proportional',
                         labelSizeRatio: 1.3,
                         labelColor: 'node'
@@ -128,6 +130,8 @@
 
                 // Start the ForceAtlas2 algorithm:
                 s.startForceAtlas2();
+
+                sigma.plugins.dragNodes(s, s.renderers[0]);
 
 
 
