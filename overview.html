@@ -163,14 +163,16 @@
 
                         var toKeep = [];
 
+                        var toKeepNodes = [];
+
+
                         for (var i = 0; i < filteredNodes.length; ++i) {
                             toKeep.push(s.graph.neighbors(filteredNodes[i]));
+                            toKeepNodes.push(filteredNodes[i]);
                         }
 
 
-                        var toKeepNodes = [];
 
-                        console.log(toKeep.length);
 
                         for (var i = 0; i < toKeep.length; ++i) {
 
@@ -182,6 +184,7 @@
                             }
 
                         }
+
 
 
                         s.graph.nodes().forEach(function(n) {
