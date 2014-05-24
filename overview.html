@@ -248,27 +248,7 @@
                         s.refresh();
                     });
 
-                    s.bind('clickStage', function(e) {
-                        s.graph.nodes().forEach(function(n) {
-                            n.color = n.originalColor;
-                            n.hidden = false;
-                        });
 
-                        s.graph.edges().forEach(function(e) {
-                            e.color = e.originalColor;
-                            e.hidden = false;
-                        });
-                        s.settings({
-                            minNodeSize: 2,
-                            maxNodeSize: 15,
-                            labelColor: 'node',
-                            labelHoverBGColor: 'node',
-                            labelThreshold: 15,
-                            drawLabels: false
-                        });
-                        // Same as in the previous event:
-                        s.refresh();
-                    });
 
 
                     $("#earth").on('click', function(e) {
