@@ -10,7 +10,7 @@
 </head>
 <body>
 
-        <div id="choices"></div>
+        <div id="header"><a href="./"><img src="lovefabriklogo.png" border="0"></a></div>
         <div id="graph-container">
             <div id="NW"><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water</div>
             <div id="NE"><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;air<br></div>
@@ -35,8 +35,8 @@
 <script>
 ;(function(){
 
-// Play a sound
 
+    // Play a sound
 
     myAudio = new Audio('rocket.ogg');
     if (typeof myAudio.loop == 'boolean')
@@ -156,6 +156,7 @@
                     // var text = e.data.node.originalLabel;
 
                     var nodeid = e.data.node.id;
+                    var nodecolor = e.data.node.color;
 
                     console.log(e.data.node.originalLabel);
 
@@ -164,13 +165,13 @@
 
                     if (clickCount == 0) {
                         element = 'earth';
-                        pathe += '?earth=' + nodeid;
+                        pathe += '?earth=' + nodeid + '&earthcolor=' + nodecolor;
                         $('#SW').html('<br><br><br>❤&nbsp;&nbsp;earth');
                         $( '#SW' ).fadeTo( "fast", $('#SW').css("opacity") == "1" ? "0.4" : "1");
                     }
                     else if (clickCount == 1) {
                         element = 'fire';
-                        pathe += '&fire=' + nodeid;
+                        pathe += '&fire=' + nodeid + '&firecolor=' + nodecolor;
                         $('#SE').html('<br><br><br>❤&nbsp;&nbsp;fire');
                         $( '#SE' ).fadeTo( "fast", $('#SE').css("opacity") == "1" ? "0.4" : "1");
 
@@ -178,7 +179,7 @@
                     }
                     else if (clickCount == 2) {
                         element = 'air';
-                        pathe += '&air=' + nodeid;
+                        pathe += '&air=' + nodeid + '&aircolor=' + nodecolor;
                         $('#NE').html('<br><br><br>❤&nbsp;&nbsp;air');
                         $( '#NE' ).fadeTo( "fast", $('#NE').css("opacity") == "1" ? "0.4" : "1");
 
@@ -187,7 +188,7 @@
                     }
                     else if (clickCount == 3) {
                         element = 'water';
-                        pathe += '&water=' + nodeid;
+                        pathe += '&water=' + nodeid + '&watercolor=' + nodecolor;
                         $('#NW').html('<br><br><br>❤&nbsp;&nbsp;water');
                         $( '#NW' ).fadeTo( "fast", $('#NW').css("opacity") == "1" ? "0.4" : "1");
 

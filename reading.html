@@ -10,6 +10,7 @@
 </head>
 <body>
 
+<div id="header"><a href="./"><img src="lovefabriklogo.png" border="0"></a></div>
 
 <div id="graph-container">
 
@@ -72,7 +73,7 @@
                         maxNodeSize: 40,
                         minEdgeSize: 0.5,
                         maxEdgeSize: 3,
-                        labelThreshold: 3,
+                        labelThreshold: 39,
                         labelSize: 'proportional',
                         labelSizeRatio: 1.3,
                         labelColor: 'node'
@@ -90,7 +91,7 @@
             // We also make the initial graph layout circular, so that ForceAtlas always looks the same
 
             // Out function to initialize sigma on a new neighborhood:
-            function refreshGraph(centerNodeId) {
+            function refreshGraph(centerNodeId,nodescolor) {
                 // First, let's stop the ForceAtlas2 algorithm:
                 s.stopForceAtlas2();
 
@@ -117,7 +118,7 @@
                     nodes[i].x = Math.cos(Math.PI * 2 * i / len);
                     nodes[i].y = Math.sin(Math.PI * 2 * i / len);
                     nodes[i].size = s.graph.degree(nodes[i].id);
-                    nodes[i].color = '#555';
+                    nodes[i].color = nodescolor;
                 }
 
 
@@ -131,16 +132,16 @@
 
             }
 
-            // Let's now bind this new function to the "clickNode" event:
+          /*  // Let's now bind this new function to the "clickNode" event:
             s.bind('clickNode', function(event) {
                 if (!event.data.node.center)
                     refreshGraph(event.data.node.id);
-            });
+            });*/
 
             $("#earth").on('click', function(e) {
 
                 // And finally, let's initialize the first graph:
-                refreshGraph(getParameterByName('earth'));
+                refreshGraph(getParameterByName('earth'),getParameterByName('earthcolor'));
                 $( '#SW' ).fadeTo( "fast", $('#SW').css("opacity") == "1" ? "0.4" : "1");
 
 
@@ -149,7 +150,7 @@
             $("#fire").on('click', function(e) {
 
                 // And finally, let's initialize the first graph:
-                refreshGraph(getParameterByName('fire'));
+                refreshGraph(getParameterByName('fire'),getParameterByName('firecolor'));
 
                 $( '#SE' ).fadeTo( "fast", $('#SE').css("opacity") == "1" ? "0.4" : "1");
 
@@ -159,14 +160,14 @@
             $("#air").on('click hover', function(e) {
 
                 // And finally, let's initialize the first graph:
-                refreshGraph(getParameterByName('air'));
+                refreshGraph(getParameterByName('air'),getParameterByName('aircolor'));
                 $( '#NE' ).fadeTo( "fast", $('#NE').css("opacity") == "1" ? "0.4" : "1");
             });
 
             $("#water").on('click', function(e) {
 
                 // And finally, let's initialize the first graph:
-                refreshGraph(getParameterByName('water'));
+                refreshGraph(getParameterByName('water'),getParameterByName('watercolor'));
 
                 $( '#NW' ).fadeTo( "fast", $('#NW').css("opacity") == "1" ? "0.4" : "1");
 
