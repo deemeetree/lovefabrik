@@ -222,7 +222,16 @@
                         s.refresh();
                     }
 
+                    var nodeClicks = 0;
+
                     s.bind('clickNode', function(e) {
+
+                         if (nodeClicks == 1) {
+                             filterNode(filteredNodes);
+                             nodeClicks = 0;
+                         }
+                        else {
+
                                 var nodeId = e.data.node.id,
                                         toKeep = s.graph.neighbors(nodeId);
                                 toKeep[nodeId] = e.data.node;
@@ -244,6 +253,9 @@
                                     else
                                         e.hidden = true;
                                 });
+
+                        nodeClicks = 1;
+                         }
 
                         s.refresh();
                     });

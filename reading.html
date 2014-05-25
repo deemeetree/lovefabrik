@@ -52,6 +52,8 @@
 
         $('#question').html(getParameterByName('question'));
 
+        $('#control').html('<a href="mailto:lovefabrik@gmail.com?subject=' + getParameterByName('question') + '&body=' + encodeURIComponent(document.URL) + '" target="_blank">ask for a reading</a>');
+
         myAudio = new Audio('rocket.ogg');
         if (typeof myAudio.loop == 'boolean')
         {
@@ -150,7 +152,7 @@
             function showNext() {
                 elementClicks = elementClicks + 1;
                 if (elementClicks > 3) {
-                    $('#control').html('<a href="' + document.URL.replace('reading','overview') + '">advanced reading</a>');
+                    $('#control').html('<a href="mailto:lovefabrik@gmail.com?subject=' + getParameterByName('question') + '&body=' + encodeURIComponent(document.URL) + '" target="_blank">ask for a reading</a> &nbsp;&nbsp; <a href="' + document.URL.replace('reading','overview') + '">advanced reading</a>');
                 }
             }
 
